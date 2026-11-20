@@ -1,0 +1,15 @@
+Claude just released the most powerful coding model in the world and it is insane at building mobile apps. Build a mobile app that is like Instagram for dogs. Make it look like Instagram but call it Insta. Woof. Let's see. It's just noticeably faster.
+
+It's almost done. It's only been like 1 minute. It's done. Okay. Wait. Let's see.
+
+Boom. Insta Wolf. Check this out. So, we have the search tab. I could make this bottom tab a little bit bigger. We have a new puppy post.
+
+We have our likes. Golden boy and husky heaven. Frenchie fan. Oh no, an error. Oh god. All we have to do is copy it, paste it back to Sonnet knows what to do.
+
+Now we just wait for the agent to fix the error. That was literally 20 seconds. It fixed the error in 20 seconds. All right, we're just going to refresh it here. Boom. All right, profile.
+
+We are fixed. We got this nice profile. All right, let's get it on the app store. We're going to go to vibecode.dev. We're going to see our app right here on the side. We're going to click this icon right here.
+
+We're going to generate an app icon. Oh, look at how cute this is. Insta Woof. With this icon, go into the app store. We're going to continue to build setup. Enter our Apple developer account.
+
+And boom. We're going to ship Insta Woof to the App Store. It's being built and being sent to Apple. Let's go.

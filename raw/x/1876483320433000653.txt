@@ -1,0 +1,24 @@
+Full Cursor Getting Started Beginners Guide
+
+You can build an AI wrapper in 30 minutes that uses @ChatGPTapp and @elevenlabs API, even if you've never written a line of code, ever.
+
+This was 7 total @cursor_ai Composer Prompts.
+
+Many people got stuck while following along my recent videos so I wanted to slow it down make one for beginners.
+
+From Downloading Cursor to Deploying on @vercel 
+
+Template link is pinned to this profile @senior_swc 
+
+Time Stamps
+00:00 No-Code App Building
+01:00 Getting Started and Downloading Cursor
+01:50 Downloading the Template
+03:13 Intro to Cursor Composer
+04:06 First Prompt Getting Template Set Up
+05:05 First Prompt For Real adding ChatGPT api
+08:46 Setting up ChatGPT API
+10:46 Testing Chat Feature
+13:40 Cursor Feature Overview
+17:40 Now Lets Add Voice
+21:27 Asking Composer to Deploy the app on Vercel

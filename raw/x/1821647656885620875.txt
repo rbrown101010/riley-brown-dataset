@@ -1,0 +1,5 @@
+my note taking app now has chatgpt, claude, and perplexity built in.
+
+perplexity is fun because it knows things that happened a few hours ago.
+
+Created this site 100% with claude.

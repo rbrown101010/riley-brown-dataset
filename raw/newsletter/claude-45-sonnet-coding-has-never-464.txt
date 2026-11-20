@@ -1,0 +1,38 @@
+In this video, Muhammad and I:
+
+-test out Anthropic's new Claude 4.5 Sonnet model and its new interface
+
+-we compare Claude and Codex,
+
+-test out the new model by creating a browser based face filter app using Snapchat's face filters as an example
+
+-we also built a fun donut visualizer inspired by Lex Friedmans donut video from 5 years ago
+
+If you're interested in trying out this model uninterrupted and without needing to set up a technical environment, I can't recommend trying out https://sandbox.dev/home enough
+
+and if you haven't had a chance to try it out yet, and have ideas for an iPhone app but no technical knowledge, i'd highly recommend trying out my app Vibecode: https://vibecode.go.link/lIlvc
+
+AND to get you started with all of this, I'll send you a free guide through the link below.
+
+This guide teaches you how to use both Claude Code and Codex to build different types of apps: https://maven.com/p/9c611e/claude-code-and-codex-guide
+
+TIME STAMPS:
+Introduction
+Setting Up Using Claude 4.5
+The App Idea
+Building the Face Filter App
+Context Anxiety
+Why Using Sandbox is Better
+Parallel Processing Capabilities
+Creating Custom Masks with the Filter App
+Lex Friedman's Donut's with Claude 4.5
+Exploring Changes to Claude Code Interface
+Final Thoughts
+
+Where to find us:
+
+Muhammad on Twitter/X https://x.com/zzulali
+
+https://x.com/rileybrown_ai
+
+vibecodeapp.com

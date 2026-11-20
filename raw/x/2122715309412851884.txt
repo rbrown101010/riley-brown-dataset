@@ -1,0 +1,5 @@
+Prompt 1:
+"Go through all my emails and find every account I'm paying for. Put them in a table, ranked by which ones I most likely want to cancel. Then open each one in Chrome and check which ones I'm signed into. I'll tell you which to cancel."
+
+Prompt 2:
+"Ok, cancel [one] and [two]. Do whatever it takes. If they ask for a reason, make something up."

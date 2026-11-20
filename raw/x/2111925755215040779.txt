@@ -1,0 +1,25 @@
+This video was edited with 1 prompt with Opus 5.5.
+
+I uploaded a single video of myself (with many mistakes). Opus went on to: 
+
+1. Analyze the transcript
+2. Search Twitter for the relevant B-roll (Claude Code literally calls GrokBot for this step)
+3. Scrape the Twitter video assets
+4. Cut the video based on mistakes and word gaps
+5. Build out the Blender scene from a template
+6. Build the UI and components of each shot (my Blender scene has 4 shots: a computer, phone, table, and board)
+7. It took screenshots of every section, analyzed and fixed them
+8. Synced every shot, zoom, and animation to the exact words I say
+9. Animated a robot arm placing real logos on the table right when I mention them
+10. Drew the whiteboard ending with logos and graphics instead of text
+11. Pulled a cutaway from the creator's own video, with his voice
+12. Rendered all 3,487 frames on RunPod cloud GPUs in under 20 minutes, for less than $1
+13. Put me in the bottom third only when I'm talking, so the B-roll stays full screen
+14. Added word-by-word captions, sound effects, and music
+15. Uploaded it to my Google Drive, ready to post
+
+Will be making a full youtube video this week explaining it. I want to learn a little more about how cloud rendering works before making video, as well as figuring out what the best provider is. (If you are in cloud rendering space, hit me up) 
+
+My goal of the youtube video will not be to make it a copyable skill, rather teach people the foundations so they can be creative and make their own mini-world by which they can make videos from, while understanding what's happening under the hood.
+
+Shout out @_chuckyc @_MaxBlade

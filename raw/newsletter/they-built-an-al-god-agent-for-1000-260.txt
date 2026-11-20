@@ -1,0 +1,28 @@
+How do you build an agent that a 1000 person company can use internally?
+
+That's what i discuss today with @rauchg.
+
+As well as:
+
+- How to get started building agents?
+
+- Do we build a team of agents or one GOD agent?
+
+- OpenClaw, and the movement it started.
+
+- Hard parts of creating agents
+
+- Agents that delegate to other agents with different permissions and computer access
+
+This is @agentnative_ #4
+Intro
+The State of Agent Adoption
+"V" Vercel's Internal Company Agent
+Building V and the Eve Framework
+Lessons from OpenClaw: Soul MD + CPU use
+One God Agent OR a Team of Agents
+How to Build Your Own Agent: Skills, Tools & Permissions
+Proactive Agents, Triggers & Self-Improvement
+Who Will Build Agents & Getting Started
+The Future: Cheaper, Faster Models & Open Weights
+Closing Thoughts: Owning Your Own Intelligence

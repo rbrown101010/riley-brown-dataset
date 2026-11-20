@@ -1,0 +1,18 @@
+How to clone an app that does $80m/year and put it on the Apple App Store.
+
+IN UNDER ONE HOUR
+
+Here is the entire process start to finish in 47 minutes.
+
+00:00 Intro
+00:29 App Idea (We found on @SensorTower + TikTok)
+00:57 Initial AI Prompt to build the app 
+02:18 Building on iPad and iPhone w/ @v_computer
+03:33 Testing native photo access and deletion
+08:03 Adding Tinder-style swipe interface
+13:26 Fixing animation and UI bugs
+27:37 Making the Folders Feature Better
+30:54 Creating app icon and landing page with AI @ChatGPTapp 
+33:48 Adding splash screen while photos are loading
+36:24 Putting the App on App Store / SSH - @cursor_ai 
+41:40 Preparing for App Store submission

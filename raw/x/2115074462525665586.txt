@@ -1,0 +1,7 @@
+Claude Code Projects is Duet except you get to pick the model and you can specify if you want to run a Claude code session on your computer. 
+
+It’s coordinator that can do ANYTHING. And it’s easy to do things in parallel. 
+
+Claude Code projects is the best feature in the Claude App. Very underrated. 
+
+Claude Duet is clearly not using Opus 5.5 for all requests. And once you go Opus 5.5 anything worse is intolerable.

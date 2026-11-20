@@ -1,0 +1,24 @@
+Claude Code is the best coding agent AND general agent in the world.
+
+Let's talk about:
+- Setting up Claude Code
+- Using it as a general agent (Research + Content)
+- Claude Code + @obsdmd 
+- Building and deploying web apps @vercel @github 
+- Database + Auth @Firebase 
+
+TIMESTAMPS:
+00:00 Intro
+00:44 Installing Claude Code
+03:39 Creating Folders and Text Files
+04:35 Using Claude Code as a Content Research Agent with @obsdmd 
+18:06 Review: It's a general agent, that can control your cpu
+19:02 Building Apps with Claude Code
+21:36 Bypassing Permissions (Dangerously)
+22:45 Creating a landing page
+25:08 Setting up and "Saving" to GitHub
+30:27 Deploying to Vercel
+32:32 Building a web app with auth and db (Firebase) 
+35:03 Setting up Firebase 
+38:58 Our Web App With Auth Works!
+42:55 You can add your own domain

@@ -1,0 +1,17 @@
+I wanted to convince my team that we should build an app, and rather than describing it and doing wireframing, etc I decided it would be faster to just build a full prototype w/ @cursor_ai + @Replit and send them a deployed link.
+
+Heres a video of that.
+
+00:00 Introduction and Initial Setup
+02:36 Firebase Configuration and Error Handling
+06:47 User Experience + Note Management
+12:29 AI Integration and Draft Creation
+14:07 Template Management and Customization
+17:23 Final Adjustments and Testing
+27:25 Deleting Lists and Drafts
+28:13 Template Type and Data Entry
+29:07 Creating and Testing New Notes
+29:22 Handling Errors and Debugging
+30:23 Adjusting Note Layout and Design
+42:19 Voice Note Feature Implementation
+48:05 Final Adjustments and Testing

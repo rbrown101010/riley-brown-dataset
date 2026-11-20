@@ -1,0 +1,3 @@
+I built Perplexity but with @deepseek_ai Reasoner model in about an hour and i'm posting the full video of it later today. As always, didn't write a single line of code.
+
+Should I open source this one?

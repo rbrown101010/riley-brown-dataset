@@ -1,0 +1,75 @@
+Everyone is talking about Vibe Coding
+(Using AI to Create Apps Only using AI)
+
+This is the most Comprehensive Guide for Vibe Coding with Cursor (By Far)
+
+250 Minutes, All the vibe code basics of cursor, plus 4 Projects in one video!
+
+This is how I, as someone who has never written a line of code, approach building apps (every day).
+
+Part 1A Intro to Cursor, Composer, and some basics
+---------------------
+00:00 Intro
+03:41 Downloading Cursor
+06:09 What the hell is Composer?
+10:47 A Note on Context and Keeping Composer Threads Small
+11:38 Simple Desings with Cursor Composer From Blank Project
+14:04 Editing a Simple Animation With Cursor Composer
+16:35 Setting Up The Voice to Talk to Cursor Composer Whispr Flow
+17:54 Lets an Early 2000's Landing Page
+
+Part 1B AI Image Generator
+---------------------
+23:59 Using the GitHub Template to Create a NextJS App
+26:43 Template is Open, Let's Edit it
+28:55 Drawing Out My Idea With Whimsical
+30:11 First Prompt Using Place Holders For Image Generation
+32:10 Accept All Vs Save All and Restoring in Composer (Saving your work)
+33:54 Adding AI Feature (Brief Teaser, Deep Dive Later)
+35:15 What is an API
+37:22 Perplexity the best place to learn about API's
+40:21 Api keys and running prompt for first AI Feature 
+42:48 Debugging, Woohoo! Learn to love this :)
+43:20 Inspect - Console, In Browser Debugging Hack
+48:02 AI Image Generation Works! Lets add more
+
+Part 2: Landing Page
+----------------------
+51:03 Pause and Reflect, What have we done so far?
+53:41 Plan for rest of video
+54:34 Ok Let's Talk about (1) Designs
+56:19 GitHub is like --sref for those who do image gen
+58:20 Starting Cursor project from a GitHub Repo we found on Perplexity
+01:00:48 Yolo Mode... Wtf is that?
+01:02:38 Inspecting GitHub Repo's Examples, to use in our landing page
+01:02:58 The Project We're making - A landing page
+01:03:56 Landing Page from Screenshot
+01:06:17 Making Changes to Landing Page
+01:11:42 Making a more epic section
+01:13:42 The Essence of Vibe Coding
+01:15:17 Creating Cool Testimonials Section From Screenshot
+01:18:18 Deploy to Vercel! But First New Repo on GitHub
+01:20:45 Ok it's on GitHub... Now lets do vercel
+01:21:17 Untechnical Explanation of what Vercel is Lol
+01:24:18 Connecting Custom Domain (Bought on Name Cheap) To Vercel Deployment
+
+Part 3: App With Database and Authentication
+----------------------
+01:27:59 Recap and Prep For The Bigger Project!
+01:35:13 Getting Started from Template (Again)
+01:38:52 Setting Up Database and Authentication (Firebase)
+01:44:01 Back To Cursor, Let's Set up The Auth in the app
+01:48:35 Switching to mermaid because compatibility issues 
+01:51:13 Using AI (Claude) to Generate Mermaid Diagrams 
+01:52:19 Adding Docs to Cursor to use AI Features over and over again 
+01:54:38 Let's Troubleshoot
+01:56:10 Adding View Button and EDIT WITH AI
+02:01:45 AI Diagram Edit Feature is DOPE
+02:03:17 Using Search Feature on Cursor to find text in Codebase
+02:05:55 Lets add ability to save these to Database
+02:09:33 What does saved to Google Firebase even mean?
+02:13:00 We can Export as PDF!
+02:15:48 GitHub and Vercel Again!
+02:17:27 Vercel with CLI From Cursor
+02:20:52 Setting Vercel Domain as an Authorized Domain
+02:27:34 How To Learn More

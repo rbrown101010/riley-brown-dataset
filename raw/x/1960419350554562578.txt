@@ -1,0 +1,31 @@
+Claude Code can build basically anything. 
+
+In this video I build:
+
+- a mac app
+- a CLI tool (AI chat in terminal)
+- a Mobile app
+- a Research Report
+- a website 
+
+All without writing a single line of code.
+
+This is meant to be an exploration of Claude Code and all of the types of things it can do.
+
+Skip to 10 min if you're experienced with Claude Code
+
+00:00 intro
+01:09 How Claude Code Works
+03:01 Leaving notes in document for claude code
+03:43 Leaving notes for the Agent to make edits
+07:05 Creating a landing page with claude code
+08:50 Adding image to landing page with claude code
+09:49 Reflection on the basics of Claude Code
+10:18 Using Git to Save your work
+12:04 GitHub is like a google drive
+13:03 Getting Landing Page on the Internet with Vercel
+14:31 Creating Forms that you can put in your landing page to collect info
+17:20 Creating a Mac App With Claude Code
+22:13 Editing the Mac App with Claude Code
+26:04 Changing the mac app to Chess
+28:19 Creating a Mobile app and a CLI tool at the same time

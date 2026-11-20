@@ -1,0 +1,3 @@
+Wanted an app to generate quick screen mockups for my iOS apps I’m making on @cursor_ai so I just made it myself. 
+
+I actually love it.

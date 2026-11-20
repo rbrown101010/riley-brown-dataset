@@ -1,0 +1,3 @@
+Okay i want to fine tune my own jev based on my own data. 
+
+Is this possible? Will this be possible?

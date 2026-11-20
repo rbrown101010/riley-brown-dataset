@@ -1,0 +1,10 @@
+ok, i'm going to build an app that makes using cursor 50x easier and more intuitive for people who have never written a line of code.
+
+front end as appealing to beginners as possible, but you get the power and coding abilities of cursor. 
+
+starting templates. 
+one click deployments. 
+
+worst case @cursor_ai clones my app and then we all have a better way to use cursor, which i want anyway. 
+
+plus it makes for good content.

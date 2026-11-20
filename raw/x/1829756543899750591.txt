@@ -1,0 +1,12 @@
+Cursor is so good
+
+built from scratch with new nextjs template we're working on.
+
+Around ~5 total errors
+25+ plus feature additions / adjustments
+
+- real time ai voice feature
+- search feature
+- login, database, storage, drag image uploads
+- deployed w/ custom domain 
+(will allow users to sign in soon)

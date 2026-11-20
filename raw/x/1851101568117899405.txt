@@ -1,0 +1,41 @@
+I built a web app using AI only in 18 minutes using using only @cursor_ai Composer (Claude) to generate the code. 
+
+I deployed it with a custom domain and you can sign in and try it right now, and here's a video of the entire 18 minute process.
+
+If you already know how to get cursor set up with localhost or replit and firebase skip [00:38 - 04:40]
+
+04:41 - First Cursor Prompt
+
+Steps i did in this video:
+
+- Opened a the @senior_swc template in Replit to kickstart the project
+- Connected Replit to Cursor via SSH for improved coding
+- Created a new Firebase project for backend functionality
+- Set up Firebase Authentication and Storage for the app
+- Implemented Google sign-in for user authentication in the app
+- Requested AI to generate initial app structure and features
+- Added user management functionality to the application interface
+- Created a task creation feature for adding non-negotiable tasks
+- Built a weekly view grid to display tasks for team members
+- Added color-coding for task status (blue, green, red)
+- Implemented hover functionality to display detailed task information
+- Refined UI with improved styling and layout adjustments
+- Deployed the completed application on Replit's hosting service
+- Purchased the domain for the app
+- Linked the custom domain to the Replit deployment
+
+DOMAIN: 
+
+non
+negotiable
+tasks
+dot
+com
+
+---
+
+I still think React tsx + tailwind is the best stack for web apps that DON'T include AI
+
+(if you want to code without seeing a line of code like me)
+
+Cursor is so much better at it than NextJS. And @Replit succeeded on the deployment ON THE FIRST try.

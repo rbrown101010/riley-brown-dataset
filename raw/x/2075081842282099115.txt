@@ -1,0 +1,7 @@
+wow... GPT 5.6 Sol Passed the Replit Benchmark.
+
+In one prompt 5.6 on Codex created a full Replit clone with DB, Sandboxes, and an agent that builds and edits full web apps. 
+
+Only Fable and GPT 5.6 have passed this benchmark.
+
+5.6 is much better at designing iOS apps than 5.5 as well.

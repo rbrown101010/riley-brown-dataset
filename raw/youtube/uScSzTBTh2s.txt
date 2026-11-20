@@ -1,0 +1,17 @@
+Claude Opus 4.6 is the most powerful AI coding agent in the world. And my app idea is build the Tinder for men under 4 foot10. Build this app for me. Clotty boy. Front end back end. I'm going to add a payw wall so that users can actually pay for the app.
+
+And now we are going to run the most powerful coding agent in the world on vivecode.dev. And then our app is going to be built right here in about 10 minutes. Okay, it's done. Let's see. Oh, the app is called Short King. Let's go.
+
+Oh, let's see what the swipe animations look like. Okay. Ooh, that looks fire. Let's go. Oh, here's Tom. Okay, we can swipe.
+
+This is cool. Let's go. All right, so this is looking good. Before we send it to the app store, what we need to do is we need to add a payw wall. So, I'm going to go to this payments tab, and we're just going to hit finish setup for payments. I'm going to make this a $99 one-time payments.
+
+Please create a payw wall when a user tries to swipe. This should be one-time pay. Now we're going to run it on claude opus 4.6 Max on vibecode.dev and the agent is working. Okay, it's done. Let's see if this payw wall works. So we can swipe, we can swipe, we can swipe, and we can swipe.
+
+Boom. There we go. We get hit with this payw wall. And so this created a real revenue cap project. So I can actually test if payments work. So, I'm going to hit test valid purchase.
+
+And I can see that vibcco.dev automatically created a project called shortw swipe. So, if I click on this and then click sandbox data, we see our revenue that came in. And this was purchased a few seconds ago for $99. So, now all we need to do is push the app to the app store. It will be live on the app store ready to take payment. So, we just hit deploy.
+
+When we hit deploy updates, this will actually deploy the back end. And then when we submit the app to the app store, that will be the front end and we're going to have a fully secure full stack mobile app on the app store. So we're going to deploy the updates. Okay, look, the deployment has succeeded. All I need to do is hit dismiss and then I hit submit to the app store. And then you can generate an icon for the app store.
+
+And now it is configuring your app to send to the app store. And all of this was done in about 25 minutes on the best mobile app builder in the world, vibecode.dev. Fellow for more.

@@ -1,0 +1,13 @@
+vibe coding an app on Cursor is incredibly easy.
+
+You literally don't need to type to create something useful. Just use voice. and a github repo as a template to speed up the process.
+
+Here i created a Twitter clone with database, authentication, starting from the @senior_swc template.
+
+This template has thousands of uses and comes pre-built with firebase db + auth. Great for just starting.
+
+New project from repo, paste this link:
+https://github .com/ansh/template-2
+(remove the space)
+
+The process is the same on @windsurf_ai btw.

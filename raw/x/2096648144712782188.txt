@@ -1,0 +1,7 @@
+Gemini is the only AI that can analyze videos quickly and accurately.
+
+Gemini can watch full 30-minute videos, pay close attention, and analyze them in seconds. It can WATCH the video.
+
+This is very useful for content workflows. The problem is that Gemini (right now) is not great at everything else. So at @agentnative_ we bundled that capability into a skill and gave it to Codex.
+
+Our editors use this before they start editing, and it makes the process about 2x faster. Which is insane.

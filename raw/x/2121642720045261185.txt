@@ -1,0 +1,18 @@
+The Fable of Clawd
+
+A 2 minute 4K film made entirely in Blender, from one prompt on Fable 5.2. It took about 4.5 hours.
+
+Claude built every asset in Blender by writing Python:
+- 5 characters and props: Clawd, his friend Pip, a toy truck, a 3D-printed tulip and a gift box
+- 7 full sets: a study, a staircase, a street, a workshop, an airport, a night sky and a house
+- every camera move and every frame of animation across 52 shots
+
+That came to 12,500 lines of code. It started 7 copies of itself to build the sets at the same time.
+
+Then it rented 89 GPUs through RunPod to render 3,220 frames as fast as possible, 36 of them running at once. Total cost: a little over $20.
+
+My biggest takeaway is my Claude Code knows it has access to cloud compute, so it's much more ambitious.
+
+I tried a similar prompt on my other computer that doesn't have the runpod skill setup and it wasn't nearly as high quality
+
+Full details linked below.

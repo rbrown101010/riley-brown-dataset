@@ -1,0 +1,33 @@
+I Built a website with a front end & a backend by prompting Claude and either...
+
+1. Pasting the code into replit (or)
+2. Following its instructions on Firebase
+
+I filmed the whole thing....
+
+But, this is by no means a tutorial lol. so I recommend skipping around. This can be best described as a worthwhile struggle.
+
+Theres 3 hours of cut footage of me getting annoyed, but I was able to create something that will serve as a home page for my business, where I can house the AI apps I create going forward.
+
+And by the end, you'll see that I actually know my way around the different parts of Firebase, and my confidence level working with code has gone up 1,000,000%.
+
+I'm beginning to know what each file does, and what context Claude needs to be successful in creating what I want to build. 
+
+Ready for my next project. See you later this week, i'm tired lol...
+
+(video was harder than the site....)
+
+TimeStamps
+------------------------------------------------------
+00:00 - Introduction and project overview
+07:21 - Using Claude Artifact
+21:00 - Setting up Firebase backend and user authentication
+30:00 - Adding Firebase Collections (database)
+39:10 - WE DID IT!
+45:20 - Implementing lesson editing functionality
+54:00 - Separating code into manageable chunks for easier editing
+56:00 - Access control for signed-in users
+01:01:32 - Connecting the custom domain (create dot inc)
+01:02:41 - Showcasing additional features (user count, music feature)
+01:05:26 - Discussing future plans and improvements
+------------------------------------------------------

@@ -1,0 +1,5 @@
+Claude Code for Video Animations? 
+
+Building an app with an agent that can create and edit animated videos...
+
+In 4 prompts. This was my first test of remotion, i'm going to see how good i can get the Claude Agent SDK at making animated videos.

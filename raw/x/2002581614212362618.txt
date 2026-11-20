@@ -1,0 +1,17 @@
+Just tested the Claude Extension... 
+
+It's a little slow but Very Promising...
+
+But the coolest part....
+
+YOU CAN CONNECT IT TO CLAUDE CODE. 
+
+Open a new Claude Code chat and just type /chrome
+
+This will conect your claude code to chrome extension.
+
+No MCP... just one command... and its connected
+
+Now you can tell claude code to test the app to see if it works.
+
+Try it.

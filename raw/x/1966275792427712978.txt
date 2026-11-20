@@ -1,0 +1,52 @@
+Claude Code and Codex (GPT-5 High) 
+
+Complete Vibe Coding Guide
+
+We build 12 apps in this video of varying difficulty
+
+PART 1: INTRO
+00:00 Intro
+03:25 What are these tools?
+04:40 Learning Claude Code
+05:16 First Prompt in Claude Code
+06:12 Editing Prompt with Claude Code (Making a linktree)
+07:02 Prompting Codex w GPT-5 and Gemini CLI
+08:38 Running on Skip Permissions Mode (Yolo Mode) by default
+09:53 Commands in Claude Code /cost /model /clear / compact
+13:34 Resume Previous Chats with /Resume in Claude Code
+14:42 Sharing web app links immediately with sharable links
+[Use all these tools in @sandboxvibe]
+
+PART 2: VIBE MARKETING AND STATIC PAGES
+15:30 Building Static Pages (Vibe Marketing)
+17:55 Vibe Marketing 1: landing page in Claude Code and Codex
+19:38 Evaluating the Landing Pages with Claude Code, Codex, and Gemini
+20:10 Making edits to our landing pages + Context Management + Wispr Flow
+24:57 Vibe Marketing 2: Creating a Lead Magnet with Claude Code, Codex w GPT-5
+26:06 Using Tally to embed into our Lead Magnets
+32:40 ‌
+33:13 Vibe Marketing 3: Creating a research Presentation with Codex
+36:15 Polishing and editing our presentation
+37:35 Vibe Marketing 4: Building Prototype, Analytics Dashboard, and Game at the same time with Claude Code and Codex
+38:30 Using Canvas app to mockup for prototype (Excalidraw)
+41:33 ‌
+46:49 Dealing with an error in Codex w/ GPT-5 high
+49:45 Vibe Marketing Recap... What we created
+
+PART 3: WEB APPS WITH AUTH AND DATABASE
+50:56 PART 3: Building Notes App with Database and Authentication using Instant DB
+51:07 ‌
+51:23 Using InstantDB to build apps
+01:01:31 API's (AI Power ups for your vibe coded apps)
+01:01:45 Building Thumbnail Editor App with Nano Banana API
+01:07:04 Bringing a Prototype to life with Nano-Banana
+01:09:19 What are API Keys? Why do you need them?
+01:11:51 Getting Google API key for Nano Banana
+
+PART 4: MOBILE APPS WITH API'S
+01:18:43 Building a Mobile app on @v_computer 
+01:20:53 Building a mobile app using AI API's
+01:29:27 Deploying Mobile apps to the App Store
+01:33:03 Deploying your apps from Sandbox
+
+Get access to all of these tools in one subscription in next tweet: 🔽🔽

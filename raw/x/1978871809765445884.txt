@@ -1,0 +1,31 @@
+Claude Just Released SKILLS
+
+You can now create folders called "Skills" and upload them to Claude to give it specialized expertise for specific tasks.
+
+Here's what's important
+
+- Folders containing instructions, scripts, and resources that teach Claude how to do specific things better
+- Claude uses them automatically: When you're working, Claude scans your uploaded skills and loads the relevant ones without you doing anything
+- Pre-built skills available: Claude already has skills for creating Excel spreadsheets, PowerPoint presentations, Word docs, and PDFs
+- Make your own easily: Use the built-in "skill-creator" skill—Claude interviews you about your workflow and builds the skill folder for you
+- Skills stack together: Upload multiple skills and Claude figures out which ones to use and combines them when needed
+- Works across all Claude products: Same skill works in the web app, mobile, desktop, Claude Code, and API
+- All claude Paid plans get it
+- Skills can run code, so only upload skills from sources you trust
+Turn it on: Go to Settings to enable Skills, then start uploading
+
+My interpretation: 
+
+I think the Claude team has seen how many people have used (and tried to use) Claude Code for non-coding tasks, specifically around "creating a team of sub agents". This seemed like a cool idea at first but I think alot of it was marketing.
+
+I think they realized calling them "Skills" is alot better.
+
+Claude is smart enough to use the right skills when needed. 
+
+Claude is the AGENT, that can use skills when the time is right. 
+
+These "Skills", which are just folders with instructions... can execute code. This means you can give these skills access to your favorite API's. 
+
+This, I think, will create a market for buying and selling "Skills". 
+
+I will be testing Claude Skills tomorrow on live stream.

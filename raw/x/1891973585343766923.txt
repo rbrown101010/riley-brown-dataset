@@ -1,0 +1,18 @@
+I BUILT A CURSOR WRAPPER: USING CURSOR
+WITHOUT WRITING A SINGLE LINE OF CODE
+
+FULL VIDEO BELOW: 
+
+I've been talking to hundreds of people who refuse to try cursor because of how scary the interface is.
+
+And fair enough. Terminal, Composer, Agent, Commands... It can be scary. 
+
+This is why people are using other web based tools to create apps. Which is awesome! But after about 12 prompts, they seem to stop working effectively. Meanwhile, with Cursor you can create MASSIVE projects without coding perfectly fine, for days or weeks. 
+
+So I got some ideas.
+
+I took it upon myself to build a new front end to Cursor, using Cursor without writing one line of code.
+
+00:00 - INTRO
+01:29 - LET'S START BY ASKING COMPOSER
+15:01 - TESTING THE APP

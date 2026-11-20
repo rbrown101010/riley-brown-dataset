@@ -1,0 +1,9 @@
+I just built this with Opus 5.5. So, this right here is Bluey, and I built him completely with AI with no coding knowledge, and it can listen to me, and it actually follows my mouse. So, this is a mono repo, which has a desktop app called Bluey, and an iOS app called Bluey, and they connect to each other, and I can very easily get him to point at the screen. Yo, Bluey, I need you to point to the name of the chat where it says run googly eyes on MacBook. can you do a little research for me and talk about how I can use the new Claude project feature? How does that work? So, here it shows that it's doing a little research, and it's pointing at projects up here, and I can click to read more.
+
+Hey, thanks, Bluey. Can you actually open up ChatGPT? I want you to type a prompt for me in the prompt box. I want you to talk about the GPT library or the latest GPT API that I can use to get you to control my computer and just do have it do some research. Nice job. Yeah.
+
+Nice job, Bluey. cool. Can you actually open up Chrome and then go to Twitter? Nice. Thank you. tweet something for me. Say building something cool. Yes, do it.
+
+Good. Good job, little guy. Okay, go to sleep. Anyway, he's sleeping and I made it public. I created this in a couple props on Cloud. Opus 5.5 It's a He's up.
+
+He's up.

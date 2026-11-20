@@ -1,0 +1,3 @@
+Hot take. Cursor is a better design tool than Figma. Github repos are my —sref. I can find them on perplexity, and 10 seconds later have a really cool project running. You can mix and match components from different projects. Midjourney for images, code for everything else. 
+
+Homework: take 12 cool images you design put them into a folder on your computer. Make some of these pngs with no background. Open Cursor at the folder you saved them, and describe a landing page that you want with those images. Let the agent cook.

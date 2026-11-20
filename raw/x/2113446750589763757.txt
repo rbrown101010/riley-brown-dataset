@@ -1,0 +1,3 @@
+Codex is amazing for 3D printing. 
+
+And Bambu Studio runs in the Dots VM which makes it even more fun.

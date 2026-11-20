@@ -1,0 +1,31 @@
+This is the FASTEST way to create a mobile app with cursor.
+
+In LESS THAN 1 HOUR, without coding... 
+
+we got an app on the app store. 
+
+The Process:
+- vibe coded a native mobile app from our phone and connected it to @cursor_ai from @v_computer 
+- added a backend and auth support w/ @Firebase so we could create rooms
+- we used the app multiplayer
+- shipped the app to the Apple App Store.
+
+@anshnanda gives a COMPLETE guide on going from app idea, to submitting the app on the app store in less than an hour.
+
+You're going to want to bookmark this one.
+
+TIME STAMPS:
+ Introduction 
+ Building the app / Editing The App @v_computer 
+ Sending the Mobile app to @cursor_ai 
+ Using Cursor and Testing app on Phone (Synced)
+ Connecting to Movie Database API
+ Adding more to the movie card
+ Fixing an Error with Cursor 
+ Adding Streaming Platforms w/ API
+ Setting up Firebase to make "Rooms"
+ Ansh SHARES the App with me
+ Using Movie Buddy Together
+ Sending the app to the App Store
+ iOS App Icon, App Name, Splash Screen
+ What we did today

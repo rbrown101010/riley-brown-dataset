@@ -1,0 +1,22 @@
+We cloned an app that does $300M/yr...
+
+Using AI (Zero Coding)
+
+With @vishal_dubey 
+(Founding Engineer at @v_computer)
+
+TIMESTAMPS
+00:00 Intro
+01:01 Setting Up the Competition
+04:54 First Prompt in the @v_computer 
+05:07 Generating Assets & Icons 
+08:07 Implementing Vibe Features
+11:56 Oh My God that Song is Fire
+22:06 API Integrations (@OpenAI @elevenlabs)
+27:36 Half Time and Feedback on the App
+34:46 App Design and Aesthetic Improvements
+35:50 Voice Customization and API Integration
+40:21 Creating Onboarding with AI
+41:53 Final Adjustments and Testing
+56:15 Rileys App Final
+59:52 Vishals App Walkthrough

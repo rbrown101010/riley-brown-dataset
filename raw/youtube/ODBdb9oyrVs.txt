@@ -1,0 +1,9 @@
+I don't know if you've heard, but we have about 6 months until AI flips the entire video game industry on its head. Check this out. This guy Charlie Chapman builds video games in his spare time after work with his kids. 100% vibe coding with Claude code and codex. And this game he built is basically a mixture between Grand Theft Auto and Apple Maps. And the game allows you to roam the entire Earth.
+
+And it takes real map data and turns it into a playable world. to think of it as like a cross between Grand Theft Auto, maybe just Cause little bits, and the original version of Apple Maps. I can go literally anywhere. It's just going to keep streaming. I can circle the entire globe. And again, this was all vibe coded. But Charlie is not the only example.
+
+This is Max Blade, a YouTube and Twitter streamer. He spent a few weeks building a Battle Royale game like Fortnite with Claude Opus 5.5. Then he played it live with his followers. But this is where it gets really fun. Every time they play, he takes suggestions from the chat and runs them as prompts back to Opus. And the next day they play an updated version of the game.
+
+His audience is literally building the game with him. And this final example is honestly beautiful. This is Dimitri from Russia. She built an ASCII role-playing game with music, visuals, magic, bosses, everything. And I genuinely believe that people would pay to play this game. He even said that he's building the game of his dreams with AI models like Claude Opus 5.5 and GPT-6 Astra.
+
+Now think about it. People have made millions of dollars making Roblox games and Minecraft servers. But now with AI, anyone can build basically any game they want with just a couple of prompts. And so I think we're going to see a massive shift. Streamers won't just play popular games, they'll build games with their audience. And this is a trend I'll be covering in great detail going forward, so follow for more.

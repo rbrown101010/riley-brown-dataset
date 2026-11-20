@@ -1,0 +1,3 @@
+It's official the OpenAI Agents are coming. 
+
+I'm already thinking about how to connect agents to my Vibecoded apps.

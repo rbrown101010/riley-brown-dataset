@@ -1,0 +1,13 @@
+vibe coding process:
+
+-> have idea for an app, open perplexity
+-> perplexity: Give me github links for a nextjs project that does ______. for each link give me the pros and cons of starting from each repo, i'm going to turn this into ______. (or start from fresh template like on we made @senior_swc)
+-> find best github link, copy link
+-> go to cursor, start from github link
+-> cmd i (composer), "run this locally"
+-> cmd click on localhost:3000 open browser
+-> use whisprflow to speek into composer, "start from this repo and "___first step___". Do one thing at a time, don't make too many changes per prompt, but also have fun and be zen. 
+-> vibe code till bug, if bug, paste error code back into composer, say "fix". As you do this more you will learn what phrases get you out of certain bugs. 
+-> if repeatedly get same bug, have composer agent describe what she thinks the problem is, paste it into perplexity with r1 say, please search and tell me if this is common bug and list eveything that may help me
+-> when you want to "save" go to github, start new repo, name it, copy link to repo, go back to cursor agent and say save this code to this repo [insert link]
+-> when you want to deploy it to the internet (do prev step first) - tell vercel you want to deploy the github link to internet

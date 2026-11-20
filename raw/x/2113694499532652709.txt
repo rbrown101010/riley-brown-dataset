@@ -1,0 +1,29 @@
+Every added layer of complexity in an application makes it 10x harder to describe and make content on. 
+
+Back in April I was making many videos on Codex. 
+
+"Codex, OpenAI's version of Claude Code" 
+"Codex, the desktop app on your computer"
+"Codex, the super app that can do any CPU task"
+
+Very, very easy to describe. 
+Repeatable, and viral. 
+
+This made it effortless to describe on short form or long from videos.
+
+Then ChatGPT and Codex merged. 
+
+Okay, now Codex is not an app. 
+Codex is a feature inside ChatGPT. 
+
+"Codex, the AI coding agent feature inside the ChatGPT Desktop app"
+
+Okay, now ChatGPT has "GPT Work"
+
+"Codex, the AI coding agent feature inside the ChatGPT desktop app that allows you to do coding tasks, and sometimes work tasks, some of those should be done inside GPT Work, which is kind of similar, but like different, depending on if you are using Cloud GPT Work, or local GPT work, in which case is alot closer to Codex, but still not quite the same. If you try and use the skills you created on Codex they won't work when doing a cloud GPT Work session but if it's a local session it will work."
+
+We haven't even made it to Codex Cloud sessions, GPT Dots, and GPT Plugins yet. 
+
+This goes for anyone building software. If you want to create an ecosystem of creators who talk about your product organically, you should aim for simplicity.
+
+BTW not saying it was the wrong decision for OpenAI to merge them, i'm just saying for me it got much harder to describe with every new feature added.

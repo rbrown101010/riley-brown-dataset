@@ -1,0 +1,7 @@
+This is how I vibecoded landing pages with my own custom style using Recraft. So on Recraft, I can search through all these different styles. Let's say I really like this style and I want to use it on my website. And let's say I wanted to mix it with this style. And then what I'm going to do is I'm going to hit create new project and I'm going to insert an image right here. And I'm going to hit this plus sign right here.
+
+And now I can remix multiple style. And now we can test it by typing in elephant. I like it. So now we can add to my styles. And now we can use this custom style. So we can say sloth riding a bike.
+
+And we can hit recraft. So here we have this style. And so we can actually just duplicate these which will keep the same style. So we can change this to panda turtle and then this to best friend. Now, what we can do is we can actually just select all of these, rightclick, hit export as PNG, and this will download all of them. And then when using an AI vibe coding tool, I can just immediately drag these images in here and say, create a landing page with four blog posts with these images being the thumbnail.
+
+And now AI is going to generate a landing page with these images directly into the app. And now we have a landing page with the designs that we created in Recraft.

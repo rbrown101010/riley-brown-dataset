@@ -1,0 +1,2 @@
+here's the link to intro style, along with prompt history on how i created it. I film all my videos with Tella. 
+I use the scrape creators API to scrape videos from twitter and use them as broll over my videos.

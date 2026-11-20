@@ -1,0 +1,20 @@
+n8n Complete Beginners Guide
+
+Agents, Webhooks, Integrations, HTTP Requests...
+
+And more.
+
+00:00 Introduction
+01:44 The Rise of n8n and agent builders
+04:21 The basics of n8n Workflows
+08:14 Your First Workflow
+10:11 Advanced Workflow Techniques
+13:00 Integrating External APIs and Webhooks
+23:53 Testing and Troubleshooting Workflows
+32:55 n8n Templates and Initial Setup
+33:16 Publishing and Automating with Dropbox
+33:30 Introducing AI Agents
+34:39 Setting Up AI Agent Prompts
+38:07 Integrating Notion with AI Agents
+44:53 Creating and Testing AI Workflows
+54:13 Advanced AI Agent Integrations

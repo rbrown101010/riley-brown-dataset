@@ -1,0 +1,29 @@
+Let's build a Deepseek Wrapper (Mobile App) without writing a single line of code!
+
+Everyone is talking about building web apps with AI, but no one is talking about building mobile apps. 
+
+This video tutorial and @senior_swc template (built by 
+@anshnanda ) will help you get starting building an app on iOS. This is react native so it's also compatible with Android and Web (But we will cover this in a future video). 
+
+The point of this video is to get some experience in the simulator and to start building an app. In a video, soon, we will take the app we've built, test it on our phone, and put it on Test-Flight! (Without writing ANY code!)
+
+Just a warning:
+The DeepSeek API has been tough to rely on.
+So I decided to add Gemini into my app as a backup, which you can do as well (with any AI model)
+
+The code for template is on the next tweet.
+
+Timestamps:
+
+00:00 Introduction
+01:35 Setting Up Xcode and iPhone Simulator
+02:29 Downloading and Configuring Cursor
+04:10 Forking the Template and Initial Setup
+06:10 Implementing Authentication with Clerk
+08:23 Adding DeepSeek API and Testing
+13:35 Enhancing the App with SupaData API
+19:00 Using the Serp API to fetch video links
+23:00 Figuring things out
+27:30 Woohoo!!! Perplexitube
+
+Shout out to Galaxies-dev on GitHub, who's repo (chatgpt-clone-react-native), we very helpful in building this template quickly.

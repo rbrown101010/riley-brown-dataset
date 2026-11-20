@@ -1,0 +1,5 @@
+You can now control GrokBot from Claude Code.
+
+GrokBot has full access to X posts, so Claude can hand off Twitter research to it with the grokbot-webhook skill. Claude waits for GrokBot’s answer, then keeps going with whatever you asked it to do.
+
+Full skill below 👇

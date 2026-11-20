@@ -1,0 +1,32 @@
+Building an Agent Team on Buzz (Complete Guide)
+
+Buzz is a new free platform, that feels exactly like Slack,
+except the agents aren't add ons, they are equals.
+and in 5 minutes you can create an agent team.
+
+And it works with your existing Codex and Claude Code subscriptions... So it's free to use.
+
+This video is divided into 2 parts: 
+---
+⭐ Part 1 Conversation with Vinny (@hot_town)
+00:00 Introduction
+01:59 Why is Buzz Going Viral?
+07:08 Creating Agents & Channels with Fizz
+20:03 Adding Other Harnesses (OpenCode, Cursor)
+21:25 The Buzz Mobile App
+22:36 Payments & Shared Compute
+25:36 Workflows & Projects: A GitHub Killer?
+30:14 The Future of Buzz: An Open Cowork?
+35:13 Automations, Triggers & Trusting Your Agents
+---
+⭐ Part 2 - Getting Started Tutorial (My workflow)
+42:32 Tutorial and Breakdown
+43:03 Downloading Buzz And Default Agents
+43:35 Creating your first agent
+45:13 Adding Agents to channels
+45:43 Why I use Codex as Lead Agent
+47:06 Using Codex, Claude Code and Grok for task
+48:52 Adding Muse (Meta Model) using OpenRouter
+51:23 iOS app is Free and easy to use
+51:50 My management Channel (My #1 use case)
+---

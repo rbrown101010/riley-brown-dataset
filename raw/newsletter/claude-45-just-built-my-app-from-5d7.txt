@@ -1,0 +1,18 @@
+Claude 4.5 Sonnet is the best in the world at building Mobile Apps.
+
+Use the Vibecode App: https://vibecode.go.link/lHp66
+
+In 14 minutes: - I Built a Mobile app From my Phone using Claude 4.5 Sonnet on vibecode.dev
+
+- I designed and modified my app
+
+- I sent the app to the Apple app store
+
+TIMESTAMPS:
+Introduction
+Defining the Problem and App Idea
+Building the Initial App
+Fixing App Issues
+Improving the Design
+Final App Features
+App Store Submission

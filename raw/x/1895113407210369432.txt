@@ -1,0 +1,22 @@
+Building a very useful app in 20 minutes that has 
+
+- Deep Research (Perplexity)
+- Claude 3.7 Sonnet
+- YT Transcript API (SupaData)
+
+Without writing a single line of code
+
+With the latest Cursor update with web search and Claude 3.7 Sonnet, Vibe Coding got even more vibey.
+
+Timestamps:
+00:00 Getting Started
+00:57 Ideating with excalidraw
+02:29 Opening Cursor Starting From Template
+05:25 Perplexity Deep Research API and Claude API set up
+10:18 OHHH NO AN ERROR! WHATEVER WILL I DO?
+11:17 PERPLEXITY AND CLAUDE WORKED!
+12:02 IMPROVING DESIGN
+13:04 ADDING YOUTUBE TRANSCRIPT API
+15:21 Redesign Concept with v0
+17:07 This is what we created
+19:42 Want to dive deeper into vibe coding?

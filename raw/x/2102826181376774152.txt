@@ -1,0 +1,3 @@
+Wow… you can now vibe code apps for the iPhone Duo with GPT-6 Sol and Opus 5.5!
+
+When building with Codex or Claude Code, simply ask: “Install Xcode 27.1 beta, set up the iPhone Duo simulator, then build and launch my app so I can see how it looks.”

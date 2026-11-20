@@ -1,0 +1,44 @@
+Without writing one line of code how far can I get creating an AI powered voice notes app with only 10 AI prompts? 
+
+I will be using 
+
+- Cursor to generate code
+- Replit to deploy the code
+- the @senior_swc Template 
+- @v0 for design
+- Firebase for DB + Authentication
+
+About the template: 
+
+The template we created comes built with "Paths". 
+
+Not only did @anshnanda do all the plumbing for this NextJS Template, by setting up all essential libraries and configuration for firebase....
+ 
+We also added:
+
+"Composer Paths" 
+Which allow you with one prompt to get as far as possible in a certain direction by referencing a file within the codebase. 
+
+The starting paths in this template are 
+
+- chat app
+- image generation app
+- social media app
+- voice notes app
+
+This specific video I take the voice notes app.
+
+The starting prompt is:
+
+"Follow the instructions in [voice-notes md] and create a voice note-taking app. Use existing files and APIs wherever possible. [codebase]"
+
+This references the voice notes "path" to make sure the API for DeepGram live voice transcription is set up properly.
+
+In this video I am going to start it with me using Cursor and Replit and the template.... 
+
+and AT THE END I'll show you how to set it up.
+
+so if you want to follow along start at 19 min, watch to end, then start it over.
+
+00:00 - Using the template
+19:10 - Setting up the template

@@ -1,0 +1,13 @@
+Very excited to announce: 
+
+Riley's Lovable (Built with Fable in 5 Prompts)
+
+Now builds mobile apps and web apps with Fable 5
+
+The app can
+> Build and preview web apps
+> Build and preview mobile apps
+> Edit apps
+> Sandboxes that come alive when open project (shut down after 60 min of inactivity)
+> Database and auth
+> Voice to text

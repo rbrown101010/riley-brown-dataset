@@ -1,0 +1,13 @@
+Most people don't realize how powerful this new Chat GPT feature is. Hey Riley, good to hear from you. Hey Dot, can you use Blender on your computer to make a 3D model of a Codex logo? I want to use it in one of my videos. Put this in your VM. Yeah, I'll make a clean 3D Codex logo in Blender on my VM for your video.
+
+Working on that now. Cool, thank you. I'll talk to you later. Okay, done. So, every Dot has a virtual computer. If I click on the Dot character, here we can see your Dot's computer.
+
+And there you go, my Dot created a 3D model on its virtual computer. I can zoom in on it. Hey Dot, I want you to start a Codex session. And I want you to run this locally on my MacBook Pro and make a 3D video using the immersive 3D video skill that we created yesterday with this animated Codex that explains to me what Dot is. Okay, so now it's going to start working on a video. Look at this.
+
+So, it spun up a new Codex session. This took around 15 minutes and now it's done with the video. Let's go ahead and watch this. Hey Codex. What is Dots? Yeah, Dots is an always-on agent with a computer.
+
+If you go to the Chat GPT app on your computer, you'll see your Dot at the top left. This agent is always-on. You can talk to it and it has access to all your plugins and skills. It can do your work on its own virtual computer. And you can even call your agent on your phone and just ask it to do work for you. Oh wow, can Dots send emails?
+
+Yes, it can. Just ask. That's actually insane. This video is fire. Can you please send this video to Emily? Ask for her thoughts and if she likes it, tell her to post it on IG.
+
+Highly recommend trying out the new Dots feature on Chat GPT.

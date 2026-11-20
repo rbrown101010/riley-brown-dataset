@@ -1,0 +1,21 @@
+The fastest way to clone a multi million dollar mobile app with Cursor 
+
+(And Add Multiple AI Features)
+
+Here's what I did:
+1. Prototype on phone
+2. Add Whisper for Voice Recording + GPT4o Image 
+3. Export to Cursor 
+4. Make Changes on Cursor while testing on phone
+5. Add Perplexity API for research
+
+Timestamps
+00:00 Intro
+00:23 ChatGPT for Design Description
+00:43 Prototype in @v_computer
+01:16 Uh oh, we got an error, let's fix
+02:55 Note Details Page Works! Let's go
+04:16 Adding AI Generated Thumbnails with gpt4o Image model
+06:15 Moving Prototype to @cursor_ai 
+08:15 Making Changes to app with Cursor
+11:21 Adding @perplexity_ai Research to the App

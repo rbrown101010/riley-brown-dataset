@@ -1,0 +1,82 @@
+The shift is already happening
+
+Agentic video editing is already exploding. Thousands of creators have stopped editing by hand and started directing AI to edit for them. This is only the beginning. In 18 months, editing a video manually will feel totally insane, the same way writing code by hand already does.
+
+We've seen this movie before with Programming.
+
+Back in 2025, a small group of developers (and non devs, like me) were early adopters of a tool called Claude Code. Slowly, then all at once, developers moved out of traditional IDEs and into agent-first tools like Claude Code, Codex and others. In 2025, most people would have told you it was crazy to leave the IDE behind. Now that's the norm.
+
+I believe Premiere Pro is the IDE for video editors / creators.
+
+Today, Developers still open an IDE, but only when they have to. That's exactly where the Premiere Pro and Davinci Resolve timeline is headed. Most of an editors time will be spent talking to an AI chatbot, likely in Claude Code or Codex. When something goes wrong, the editor may decide to open the timeline.
+
+The 10x editor
+
+In software, we're already watching the rise of the 10x programmer, and even the 100x programmer: people who set up the systems (software factories) that let AI build and improve the software for them.
+
+A new kind of person is about to walk into companies: the 10x editor, or really, the creative producer. They won't be measured by how fast they can cut. They'll be measured by how much great content they can put out without ever lowering the bar on quality or brand.
+
+And they'll do it by building content factories, the same way developers are building software factories right now.
+
+We're in the early innings of agentic editing
+
+Currently, people are using AI to edit videos but people aren't setting up content factories.
+
+When you go to Claude Code you can say something like
+
+"Please can you look at my footage on the camera from today and make a vlog that builds our brand"
+
+And Claude will work for 30 minutes, or maybe even 3 hours, to hand you back a real, coherent video(sometimes). It might even surprise you. My friend Muhammad Zulali made this youtube video, and Fable 5.2 edited the whole thing in a single prompt. It was genuinely good. It's on pace to get over 2M views. This was his second video ever.
+
+But that's still rare, and it's hard to do over and over. The people who figure out how to scale great content with AI are going to make millions. Soon, tens of millions.
+
+In order to understand how content factories will look, let's take a close look at software factories.
+
+How it worked with Software Factories
+
+A software factory is what happens when a developer stops writing code and starts designing the system that writes it.
+
+For most of history, software was something a person typed out line by line, like writing a very long, very literal letter to a machine that takes everything you say at face value. Getting good at it took years. Building anything big took a team, and most of the work wasn't the idea. It was the typing, the fixing etc.
+
+What changed is that the machine can now read plain English and do the typing itself. So the best programmers quietly stopped writing code and started building the thing that writes it: a little factory. You hand it a clear description of what you want. A handful of AI workers build different parts at the same time, other workers test what got built, and anything broken gets sent back before you ever see it. When something does go wrong, you don't simply fix the error. You write down a rule so the factory never makes that mistake again.
+
+The software factory gets better as you use it.
+
+When I talk to people who build software factories, I don't see craftsmen. I see directors. They have a team of agents, a token budget and software that needs building, and their job is to coordinate those resources to get it done. Anywhere they can step out of the process and let the AI work, they do. The good ones, at least.
+
+9 months ago, software factories were not really a thing. And now they are everywhere.
+
+That is where we are are in video editing.
+
+How a content factory might work
+
+Now what would this look like for content?
+
+A factory for content is a system that produces high quality content at scale, and increases in quality over time.
+
+The one big difference is that software is purely digital and barely has to touch the physical world, while (good) content is deeply human. People want to watch other people, so a content factory always has a human at its center: the face, the voice and the story the whole system is built around.
+
+But other than the videos taken with real cameras the rest is just code.
+
+Under the hood, a Premiere Pro timeline isn't really a video. It's a text file that references videos... Basically a list of instructions that says "play this clip from 0:04 to 0:09, put this title on top, lower the music here," and the software turns those instructions into something you can watch.
+
+-
+Dragging a keyframe changes one number: when the zoom starts, from 0:02 to 0:03.
+
+-
+Trimming a clip changes two timestamps: where it starts and where it ends.
+
+-
+Dropping in a cross dissolve adds one short line: a transition, half a second long.
+
+If video editing is just code, then everything that just happened to programming is about to happen to video editing. And if editing a video becomes mostly prompting (like coding) you'll probably want AI to do most of the prompting based on a certain set of rules. Yes, this is a content factory. And we will need experts to manage these systems, while deeply understanding content, marketing, and editing.
+
+The creative director of the future starts by understanding the whole story of the creator or company they're growing: who they are, what they believe, how they talk and what they'd never say. And they know, almost by feel, what a viewer should feel. They will still have an instinct for story and brand. They will understand the set of associations that builds up in someone's head, video after video: the pace, the music, the light, the way a story lands with different audience groups. Great creative directors shape that on purpose, so long after the video ends, the feeling stays. That part is an art form, and it's the one thing the factory can't do on its own.
+
+Then the creative director will need to build a team, part human and part AI, that turns that story into every format at once: long-form videos, shorts, podcasts, newsletters and posts.
+
+This is a content factory, which is as an amplifier with unlimited upside, but it can only multiply the true value at the center. If the humans at the center brings no value, it amplifies to zero... (0 x 0 = 0)
+
+In the near term (next 3 months), not much will change. The great creators and marketers will continue to rise to the top. But I believe sometime in the next 12 months we will hit an inflection point where AI get's so good that those with content factories will takeover the entire internet.
+
+In future newsletters I will dive deeper into actual AI workflows the best marketers use now for growing on social media while building brand.

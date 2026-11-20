@@ -1,0 +1,15 @@
+Create Motion Graphic Videos w/ Remotion
+Using GPT 5.5 inside Codex
+
+(Full Guide)
+
+TIME STAMPS:
+00:00 Intro
+02:40 What is @Remotion
+04:31 Setting Up the Remotion Plugin
+05:47 First Prompt: Hello World (First Test)
+15:53 Building Brand Assets & File Organization
+19:25 Adding Music with @suno 
+21:47 Adding More Scenes
+26:37 Rendering the Video
+27:12 Final Thoughts

@@ -1,0 +1,19 @@
+Claude Code just released sub-agents.
+
+IN THIS VIDEO:
+
+1. I'm giving a breakdown of what Claude Code's new Subagents feature is
+
+2. Creating a master agent that delegates tasks to specialized subagents
+
+3. Demo how these agents can operate in parallel
+
+4. See how they handle different tools, including API integrations with X and FAL for social media postings and image generation
+
+ClaudeCode has subagents for the web but if you want to build your own version of this on your phone, you should definitely check out VibeCode: https://vibecode.go.link/1kMAR
+
+TIME STAMPS:
+
+Intro 0:00
+Sub-Agents Overview
+Sub-Agents Demo (Getting Started)

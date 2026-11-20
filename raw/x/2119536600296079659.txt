@@ -1,0 +1,8 @@
+Claude Duet can now connect to Claude Code running on my Mac. This is useful for these 5 reasons
+
+00:00 Intro
+00:22 1. Virtual + Physical Computer
+03:24 2. Edit Videos From Your Phone
+06:56 3. Build Apps From Your Phone
+08:48 4. Computer Use From Your Phone
+10:29 5. Real-Time Voice With Claude Code

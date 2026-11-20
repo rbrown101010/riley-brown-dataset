@@ -1,0 +1,18 @@
+Is Claude Code Better Than Cursor? 
+
+This video is a crystal clear explanation on what makes Claude Code different than Cursor, Codex and Windsurf.
+
+A classic @rasmic whiteboard conversation!
+
+Next time he's on the pod (soon) he's going to build an app from scratch that will blow your mind.
+
+TIMESTAMPS:
+00:00 Intro to Claude Code
+00:28  Why Claude Code Is Best
+02:38  Comparing Cursor, Windsurf & Claude Code
+07:41 Using Claude Code with Other IDEs
+12:41  Future of AI Coding Tools & Claude’s SDK
+19:58  Integrating Codex with Chat GPT
+ 21:14 Best AI Code Review Tools (Devon, CodeRabbit
+ 26:49 Building an App with Claude Code (Step-by-Step)
+35:32 Future Plans

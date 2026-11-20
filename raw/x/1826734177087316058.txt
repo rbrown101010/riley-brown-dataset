@@ -1,0 +1,23 @@
+CLAUDE + CURSOR + REPLIT = MAGIC
+
+(FULL VIDEO TUTORIAL)
+
+You can now write create complex web apps with just english (No copy - paste) using the BEST AI Code generation tool on the market - @cursor_ai.
+
+The only problem with cursor for a coding beginner like me, is that its not that easy to deploy web apps.
+
+Well, @Replit makes deploying web apps and creating templates incredibly easy.
+
+In this video @anshnanda goes over how to sync Cursor and Replit. 
+
+And then using our new template we made an AI version of @trello in like 6 or 7 cursor composer prompts.
+
+---------------------
+In this video:
+
+00:00 - Intro
+04:08 - Syncing Cursor and Replit
+07:40 - setting up Firebase
+10:27 - Using Cursor and Replit to Create Trello Front End
+19:41 - Setting up Backend API endpoint (we will make dedicated video on this soon w/template)
+21:09 - Adding AI features to Trello!

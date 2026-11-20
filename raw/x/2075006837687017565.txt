@@ -1,0 +1,1 @@
+Grok 5.6 is quite fast. Pretty good at design. Very fun with the Cursor design mode.

@@ -1,0 +1,9 @@
+If you’re struggling to build a tool people want I highly recommend building software that is “agent native”. 
+
+900M people use ChatGPT weekly and now OpenAI is merging codex and ChatGPT. 
+
+Millions of people are going to be using agents, who previously were just talking to an ai that could search the internet. 
+
+Agents don’t just retrieve information. Agents do things on the users behalf. 
+
+What if you build something where agents do things. Think moltbook but think bigger. Think smaller. Think more niche. Think more useful. When you go down this rabbit hole you’ll realize there’s so much opportunity here.

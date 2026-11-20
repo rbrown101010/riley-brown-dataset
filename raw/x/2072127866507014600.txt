@@ -1,0 +1,17 @@
+You can build your own custom Jarvis, using Cursor, Claude Code or Codex, in less than 20 minutes.
+
+Using the new GPT-Realtime-2 API...
+
+Anything you can do on a computer can be turned into a tool that your Jarvis can use.
+
+(Here's exactly how to do it)
+ Introduction
+ Step 1: Cursor Setup
+ Step 2 – Full Jarvis Prompt
+ Step 3 – My Agent Ricky
+ Step 4 – Second Prompt
+ Step 5 – Add EXA API Key for Web Search
+ Step 6 – Third Prompt
+ Step 7 – Add Computer Use Mode
+ Step 8 – Add AI Image Generator (Insane)
+ Final Demo

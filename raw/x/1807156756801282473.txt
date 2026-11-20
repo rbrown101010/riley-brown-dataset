@@ -1,0 +1,9 @@
+Claude is so good
+
+Prompt: 
+--------
+I am using a video generator 
+Please give me a map of all the different types of shots and things I can enter for my prompt.
+
+Output
+--------

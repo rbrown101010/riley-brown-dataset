@@ -1,0 +1,19 @@
+You can design iOS apps that look like they were designed by Apple... 
+
+Without writing a single line of code.
+
+Here are the 7 Tips (With Prompts) for creating apps that look professionally designed by Apple, using Native iOS UI Components.
+
+With @anshnanda_ who has 10 years of experience building iOS apps. 
+
+TIMESTAMPS:
+00:00 Intro
+00:24 Advantages of Native Apps vs Web Apps
+01:51 Create Boring ToDo List App on @v_computer
+ 04:02 Tip 1: Header Transition
+05:19 Tip 2: Context Menu
+06:55 Tip 3: Bottom Bar
+08:48 Tip 4: Bottom Sheet / Modal 
+09:59 "Snap Points" 
+10:51 Tip 5 and 6: Date Pickers and Time Pickers
+13:01 Tip 7: Haptics

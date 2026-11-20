@@ -1,0 +1,1 @@
+Yeah Jev by @typesafeai is very cool. It classified 500 emails in seconds. And it costed 3.5 cents.

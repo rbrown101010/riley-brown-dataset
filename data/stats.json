@@ -1,0 +1,24 @@
+{
+ "built": "2026-11-20",
+ "items": {
+  "youtube": 188,
+  "youtube_short": 47,
+  "newsletter": 20,
+  "x": 205
+ },
+ "words": {
+  "youtube": 1012962,
+  "youtube_short": 16527,
+  "newsletter": 4499,
+  "x": 15390
+ },
+ "sft_pairs": 3139,
+ "test_pairs": 50,
+ "test_items_held_out": 28,
+ "items_total": 460,
+ "words_total": 1049378,
+ "date_range": [
+  "2023-01-15",
+  "2026-11-20"
+ ]
+}

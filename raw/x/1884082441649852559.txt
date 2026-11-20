@@ -1,0 +1,15 @@
+Introducing Perplexi-Tube, the Perplexity for YouTube that I built in 20 minutes... 
+
+A Mobile app that uses Deepseek and Gemini
+
+I used Cursor and the React Native template @anshnanda built that makes building mobile apps incredibly easy. 
+
+Tomorrow I'm releasing a full tutorial on how to create a mobile app with react native. You will need 
+
+- XCode and Simulator (free)
+- Cursor
+- A Clerk Account (for auth, free)
+- A Deepseek API Key 
+- A Gemini API Key (Optional, we used it because deepseek has been down today)
+
+Video will be released tomorrow, and I will open source this code as well.

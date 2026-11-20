@@ -1,0 +1,5 @@
+Just created this with Jev by @typesafeai. A live viral post analyzer. As soon as you stop typing for .5 seconds it analyzes the viral potential. 
+
+Going to try and actually make this good, will need to scrape a lot of twitter data...
+
+Notice how it also categorizes the tweet live... I could have it surface similar tweets on the right side for inspiration... idk just experimenting.

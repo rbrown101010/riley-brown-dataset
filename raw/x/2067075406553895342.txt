@@ -1,0 +1,11 @@
+How to use GLM 5.2 in Cursor... 
+
+I'm using it with @OpenRouter because zAI is busy.
+
+1. Get OpenRouter Key
+2. Go to cursor ➡️ settings ➡️ models
+3. Scroll to OpenAI API Key, Toggle it on, Paste OpenRouter Key
+4. Scroll to Override OpenAI Base URL, Toggle it on then paste "https: //openrouter.ai/api/v1"
+5. Go to models ➡️ Add New Custom Model
+6. Type "z-ai/glm-5.2"
+7. Should be in your model selector

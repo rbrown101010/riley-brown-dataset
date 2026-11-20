@@ -1,0 +1,43 @@
+Wow. Look at this. It created this like painting thing. And you can just get AI to make these. Right? It's now calibrating.
+
+All right, guys. We just got a 3D printer. What kind is it? Bambu Lab H2S. All right, it's a Bambu Lab H2S. You just said, "Look at this." What are we looking at here?
+
+It's removing all the zip ties. Some inserts that were in there protect it during shipping, you know, it's just Then this step just says to move this forward. It's kind of cool. All right, so we have the little foam piece in there. This thing's way bigger than I thought it would be. It's huge.
+
+Climenaid. We're going to build cool software, of course. But we're also going to build cool hardware. And let me let me show you what I have cooking up right now. So, obviously I got this pegboard all the way across the wall here, right? On Codex, all right, on Codex, you can just ask for it to create like these pegboard holders.
+
+You know, we ordered some of these on Amazon, this little thing that holds this like painting up. Not a huge fan of it, if I'm being honest. And so we can just 3D print different ones. And we're going to just 3D print so many cool things on this wall, not just like little holders like this. We're going to make cool statues, we'll paint them. We're going to learn how to sand them, learn how to use all this stuff.
+
+But we're just going to do experiments in here. And we can use Codex. Like, let me show you how cool this is. Yo, can you make these a nice chrome brown color? And then you can just get AI to make these chrome. And there you go.
+
+And you can do other things, too. Like you could say like Okay, I want you to create a new Blender project. I want you to imagine for a second that we wanted to create a pegboard design. I want you to think deep about this, and I want you to make a really cool pegboard design that would fit in the pegboards that would take up like I don't know. Like 25 pegs by 25 pegs or something. And I want you to make a cool Blender, and this should be able to fit into the pegboard without me buying anything external.
+
+Assume you have access to all the colors of filament that you might want. Oops. So tiny. So the model is built. I'm finishing up the print files for and preview. Oh.
+
+Look at this. It created this like painting thing. And here it It shows title sunset assembled. And then here it has all of the individual tiles that you can see that should go straight into the pegboard that we can 3D print. Which is pretty cool. I think we could do a better design, though.
+
+Is that what you wanted it to do? Yeah, well, I was just having it I already had it create the brackets. Oh, okay. But now I'm just having fun. Wait, and so you said like we're going to be able to put different color filaments up here, right? So we can give it since there's only four colors in that, maybe there's I don't know if it's yet.
+
+If we were to get those colors, we could put them in here and it could make it and it could auto switch. Yes. Very cool. She's the brains behind this operation of getting this 3D printer cuz neither of us knew about 3D printing like 2 weeks ago. We got a lot of things. A lot of things to learn.
+
+The rest. All right. So, I didn't even know this, but Emily got Tell me what you got. It is like essentially like a little generator. This one just happens to have like a surge protector and a couple outlets on it. If you're in the middle of the print and you lose power, it could really mess up the print.
+
+So, this protects that. Oh, yeah. So, you plug in and charge for 8 hours. Okay. So, this is called a UPS. It's like uninterrupted power source.
+
+That's what it stands for. And yeah, and then it gives you I think 24 hours, maybe less, of power if you lose power so that 3D printer can continue on or you can do whatever you need to protect it like using the software. Nice. Yeah. Well, that's cool. I didn't know that.
+
+I have saw that the other day. I was like, why did we get such a big search? Yeah, that's Well, it's just a good unit. Yeah, but it Look at how big this thing is. It's crazy how big this thing is. Is the power button on the top right there?
+
+Oh. It's back there. Hey, buddy. It's pretty cool. And then I'm going to bamboo. Well, it's app.
+
+There's an app. We're going to buy into the device. Let's go. [sighs] Let's go. Yes. That was beautiful. Welcome to the family.
+
+Wow, look at her. So cool. Beautiful. This company is awesome. China makes cool stuff. It's now calibrating.
+
+What does that mean? It just has to run a calibration, I guess. It's just kind of like surveying the scene. Yeah, it said it will take like 45 minutes. Ah, damn. Damn.
+
+I think the plate they have to like make sure that it's calibrated correctly with the tools. Got it. The head, whatever it's called. Well, tomorrow we're going to start building with this thing. We're going to create some really cool projects. I have a lot of fun hardware projects coming up that I'm going to be making videos on.
+
+Not just like 3D printing plastic stuff, but like building physical devices. I'm going to create a little dumb phone. I've talked about this on my main channel a little bit, but a lot of fun projects coming. We're going to fill this entire wall with like cool like AI designed art, and we're just going to build cool stuff in here. We also named our 3D printer. Name is Boo cuz it's the name of the company.
+
+Not sponsored, but Bamboo Lab, if you're watching, I'm down. Anyway, that's a vlog. Why isn't it focused on me? I'm still learning how to vlog, but anyway, that's a vlog. We'll see how AI does editing this. Really curious to see how it does.

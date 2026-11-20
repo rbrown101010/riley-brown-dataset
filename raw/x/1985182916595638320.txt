@@ -1,0 +1,9 @@
+15 minutes…
+
+Build an iOS app
+- With Database
+- With Authentication
+- With Storage
+- With AI Features
+
+Send to App Store (From Phone)

@@ -1,0 +1,8 @@
+This video edit was created in a single prompt with Opus 5.5 and blender. I just recorded the video and uploaded it to claude and it used a skill i've been working on for a day.
+
+It cut out the mistakes, added the music, sound effects all rotating around a single scene in blender. 
+
+I think it's about 3% as good as it could be. 
+Will be iterating on it to make it 1% better every day. 
+
+Just posted it on IG, let's see how it does.

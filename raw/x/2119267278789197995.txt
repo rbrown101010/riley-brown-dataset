@@ -1,0 +1,6 @@
+Claude Duet can now Control Claude Code that's running on your computer. This will be great for video editing and coding tasks. 
+
+- You can control claude code running on multiple computers
+- You can work on existing sessions
+- You can spin up new sessions
+- You can do this with real time voice (i hope this get's better, their real time voice is mid)

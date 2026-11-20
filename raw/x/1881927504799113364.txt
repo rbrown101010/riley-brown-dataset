@@ -1,0 +1,22 @@
+Without writing a single line of code...
+
+Using Cursor, I built a Perplexity Clone that thinks, using Deepseek reasoner. 
+
+As promised i'm Open Sourcing this project and I will put the link below. 
+
+Time Stamps:
+----------------
+
+00:00 Introduction to Perplexity Clone
+01:54 Setting Up the Project in Cursor using @senior_swc Template
+03:03 Integrating DeepSeek API
+04:18 Testing the Initial Setup
+04:42 Tavily API for Web Search
+07:23 Fixing Stuff
+09:27 Improving the User Interface
+12:59 Finalizing the Functionality
+15:08: Cloning Perplexities Sources Section
+17:50 Final Result
+18:50 Why I built this app, and what i'm doing with it
+
+-----------------

@@ -1,0 +1,9 @@
+Yep. Open AI just added the Codex app, which is their version of Claude code directly inside chat GPT. Here's the chat GPT app. We can select Codex. It controls Codex, the desktop app. Now I can take this anywhere, and not only does this control the desktop app, which controls my computer, I can see all the plugins, so I can literally use computer use.
+
+I can control my browser from my phone. I can create documents, spreadsheets, or presentations. I can create a spreadsheet here and say, "Hey, can you please go through my email? I want to know all of the brands who've reached out over the last week, and yeah, compile a spreadsheet of all the people who've reached out. Please do that right now. And then, yeah, give me that sheet." And so, we can fire that off.
+
+And so, now it's using my brand deal researcher skill, which I created on Codex. And here we can see that it's searching through all of my emails, and this can take up to 10 minutes. And look at that, it's done. So, if we open this up right here, this is a full Excel spreadsheet that I can export. Zoomed in here, this is just a giant spreadsheet here. This is also a full vibe coding tool as well.
+
+So, I said, "Can you please create a landing page of me?" And then I have it use YOLO mode, which is a skill which automatically deploys it to Vercel, so it's actually on the internet. So, every change that I make, it sends me a deployed link. I can click on it, and boom, I can vibe code directly from my phone. This is a website that it just created. It's automatically mobile responsive. And by the way, I'm building the best agent library ever, which keeps track of all of the best skills.
+
+It's on chorus.com/skills. Anyway, in my next video, I'm going to talk about building iOS apps directly from my phone and downloading them. Swift iOS apps directly to my phone. Using Codex, it's going to be sick. Anyway, I'll see you here for that.

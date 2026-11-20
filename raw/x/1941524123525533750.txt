@@ -1,0 +1,11 @@
+This is an n8n agent, that can delegate tasks to other n8n agents. (Full Breakdown)
+
+And a new way to interface with them with your vibe coded apps.
+
+00:00 Introduction
+00:30 Building and Testing the AI Marketing Agent
+05:08 Breaking down the Chief Marketing Agent
+16:56 Agent System Instructions
+21:01 Media Agent: Generating and Integrating FAL
+26:20 Testing the VAAP
+30:13 What we talked about today

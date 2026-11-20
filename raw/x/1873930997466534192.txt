@@ -1,0 +1,30 @@
+Cursor Agent is just insane!
+
+In a little over an hour, without writing one line of code I created a YouTube Super Analytics Tool and I filmed the whole process...
+
+This is a full step by step guide on how to use Cursor Agent to build whatever you want with zero coding...
+
+As always I used the @senior_swc nextjs template as a starting point that has been forked over 11,000 times. (in next tweet below)
+
+Tools used:
+
+- Cursor: Duh
+- Replit: Template, web view and deployment
+- Deepseek API: High quality AI Model (Cheap and better than gpt)
+- SupaData API: Pull YT Transcripts
+- SerpAPI: Search YouTube Results
+- Firebase: DB and Auth
+
+Chapters: 
+
+00:00 - YouTube Power Tool In Action
+03:00 - Planning Phase (How I diagram and plan) 
+04:58 - Features I'm adding
+06:20 - Setting Up APIs and Tools 
+10:00 - Developing the YouTube Transcript Extractor w/ Supadata + Deepseek
+19:58 - The YouTube Search Feature (SerpAPI)
+29:41 - Setting Up Google Firebase (DB + Auth)
+32:00 - Implementing Search and Save Features 
+36:50 - Styling and UI Enhancements
+49:00 - Final Result 
+53:40 - These features are being added to @yapthread but way better (First look at composer feature)

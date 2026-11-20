@@ -1,0 +1,9 @@
+Hilarious use case of the new Chat GPT image model that just came out today. So, I said generate an image of the book Good to Great. The barcode on the book should scan to the actual book. So, what we're going to do is we're going to full screen this and we're going to zoom in on this barcode. I have a barcode scanner right here and let's go ahead and go like this. Bang.
+
+Good to Great. The barcode scanner fully works. Like what? Do the same with the book The Intelligent Investor. Okay, it's done. Now, what I'm going to do is I'm going to open this up full screen.
+
+We'll give this a scan. Boom, look at that. The Intelligent Investor. Here are the videos. One thing I want to test here. I want to make sure that it's not picking up and just reading the ISBN number.
+
+So, I'm actually going to open up Canva. I'm going to paste it in here. Now, what I'm going to do is I'm going to I'm going to black out this part of this. I want to see if it's actually scanning the barcode. So, let's see. Bro, that's crazy.
+
+That is actually wild. What the hell?

@@ -1,0 +1,8 @@
+What are the best theories on how Anthropic made their models so damn good at visual understanding and taste?
+
+Fable 5.2 (and even Opus 5.5) isnt just good at front end design or Blender… its great at making anything visual, in ANY tech stack.
+
+It feels like AGVI
+(Artificial General Visual Intelligence)
+
+How, How, How?

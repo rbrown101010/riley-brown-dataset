@@ -1,0 +1,17 @@
+Maximize Claude (MCP Full Tutorial)
+
+Tools
+@Docker MCP Toolkit
+@NotionHQ MCP Tools
+@heyglif MCP Tool
+@WisprFlow for voice to text
+
+TIME STAMPS: 
+00:00 - INTRODUCTION
+03:13 - What MCP's are and ARE NOT
+05:46 - Why do we need "Integration Token" 
+07:00 - Our Internal Database is FOR AGENTS.
+08:42 - Using the Notion MCP Tools in Claude
+13:25 - Creating Claude Projects for Specific MCP Tasks
+15:58 - Adding an Image Generator Workflow Tool
+20:24 - Conclusion

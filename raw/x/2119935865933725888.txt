@@ -1,0 +1,15 @@
+There is a skill circulating called REA-Video
+
+"Reverse Engineer Anything - Video" 
+
+Essentially claude downloads a video from youtube and analyzes every frame and the relationship between them to "extract" the video editing style. 
+
+And i'm afraid with Fable, this is VERY good now. I've tested it on Kurzagets video... i did it on stream, i dont think i'm gonna post it for the negative backlash from the editor community, but i just think people should be aware of where this is going. 
+
+@elder_plinius tweeted the following the other day: 
+
+my spidey senses are telling me the labs are, as we speak, using unguardrailed versions of their unreleased models to systematically reverse-engineer ALL of the internet’s software, apps, and games, then feeding the reconstructed source code straight into their training pipelines while simultaneously building guardrails to ladder-pull the rest of us
+
+I have a feeling the path to creating a model that's VERY good at editing and creating videos is something like this, but with Videos. Reverse engineer every good video to code files then use that data to train models. 
+
+again i'm not saying any one is or anyone should do this. just... a thought.

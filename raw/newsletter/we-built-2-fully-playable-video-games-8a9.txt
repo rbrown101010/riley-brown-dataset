@@ -1,0 +1,46 @@
+You can build multi-player video games with Claude Code and Codex w/GPT-5... Without writing a single line of code.
+
+Use Claude Code and Codex in the web: https://www.sandbox.dev/
+
+In this video I go head to head with Vishal (https://x.com/vishal_dubey1)
+
+Who can build a better video game in 7 prompts?
+
+Vishal is using Claude Code I am using Codex with GPT-5
+
+We're using these tools in the @sandboxvibe so we can just use them in the web and immediately share the links, and play each others game.
+
+To vote for winner RT and comment below who you think won. (Prize: Selecting 5 people who vote to win $1000 worth of @sandboxvibe credits)
+
+TIMESTAMPS:
+Intro
+Vishals Stack (Claude Code)
+First Prompt with Claude Code Star Wars Game
+What is "UltraThink" on Claude Code?
+Rileys App Idea for Codex with GPT-5 High
+Why Codex is the best Model in the world for Coding
+First Prompt with Codex on Sandbox (Riley's Stack)
+Vishal Testing his app
+Prompt 2 - Simplifying Claudes Over Creativity
+The Game Codex Created
+Riley Prompt 2 - Making Changes to Characters and Cars
+Creating Github Repository for Game Assets and Later Use
+Adding Ability to Shoot Lasers
+Prompt 3 Riley Testing Sound Effects
+Adding More sound effects and changing the characters in game
+Vishal Added Enemies - Testing
+Prompt 4 - Adding Health Bars and making movement more realistic (Vishal)
+Adding Real Time DB and Auth
+Refining Controls
+Riley Testing Database and Auth with Codex
+The Multi Player Game Works!
+Fixing MultiPlayer and Game Creation issues and adding Grenade
+Advice on Database
+Vishal... 2 Prompts left
+Fixing Aiming Issues
+Vishal Compacting Claude Code
+Fixing the Grenades Spawning Location
+FINAL PROMPTS
+Adding Health
+The Games are done: Final Testing
+Final Thoughts and Chance to Win $1000 Worth of Credits

@@ -1,0 +1,1 @@
+Can we pause for a second and think how crazy it is that someone can get 99% of the benefits of blender without even opening it... People can simply mention "blender" to Claude Code and it will just use Blender... a thing that used to take years to master... just effortlessly controlled by agents now.

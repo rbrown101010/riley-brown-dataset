@@ -1,0 +1,15 @@
+Longer Video:
+
+Using Claude to make a fully functional note-taking app with a real-time backend in just 4.5 hours without writing a single line of code.
+
+------------------------------------------------------
+
+[Time stamps]
+00:00 Designing the App Layout with @AnthropicAI Claude + Artifacts with screenshots
+00:53 Drawing a diagram for edits
+01:37 Adding Functionalities to Notes
+05:17 Deploying the App on @Replit 
+06:05 Creating a Dynamic Backend (more detail next video)
+08:02 Integrating Firebase
+10:52 Final Touches and Features
+13:20 Conclusion

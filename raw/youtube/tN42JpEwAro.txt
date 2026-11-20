@@ -1,0 +1,3 @@
+Everyone is now vibe coding because AI has quickly caught up to the average developer. People who have never written a single line of code are building apps with AI. But some vibe coders are actually not making sure their code is secure. And now catching mistakes is more important than ever. Code Rabbit catches and fixes those Vibe errors so your AI generated code is clean, efficient, and shippable. My favorite feature, one-click commitable fixes, apply changes instantly.
+
+It also has automated error detection to catch bugs before they go live. It integrates with GitHub, GitLab, Bitbucket, and Azure DevOps with no setup headaches. And a bonus, Code Rabbit is free for open source projects. Check the link in my bio to learn more about Code Rabbit.

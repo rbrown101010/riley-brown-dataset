@@ -1,0 +1,40 @@
+I built an AI powered writing app with Cursor Agent without writing a single line of code in a little over an hour.
+
+Features: 
+- AI powered autocomplete
+- AI powered image search with autosuggestions based on what i'm writing
+- Ai powered research based on what i'm writing
+- Block based writing (which is useful for my workflow as a video content creator)
+
+!!! And I ran it locally this time.
+Normally I use replit, so if you got stuck on connecting cursor and replit, this video is for you.
+
+Template pinned on @senior_swc (starting point you can download)
+
+Tools used
+- Cursor (Claude for ai model)
+- Firebase 
+- Deepseek @deepseek_ai 
+- Exa ( @ExaAILabs )
+- Search API
+
+These videos serve as R&D for the app we're building at @yapthread. We're building the cursor for content creators.
+
+Sections
+00:00 Introduction
+03:24 Introduction to the Template
+03:54 Setting Up Locally
+04:04 Downloading and Running Locally
+05:34 Firebase Setup
+06:10 first prompt in cursor + continuing firebase
+08:11 Full Plan for the app I'm building
+10:44 Outlining the app hotkeys 
+11:55 Testing First Feature
+16:54 Adding Autocomplete Feature Deepseek
+22:23 Adding Images to Blocks (Search API)
+22:42 Implementing and Testing Image Search (Search API)
+25:32 Adjusting Image Sizes and Social Media Discussion
+28:11 Adding Relevant Links (Exa API)
+30:34 Testing and Debugging Link Highlights
+32:27 Finalizing Image and Link Integration
+40:37 Conclusion and Future Plans

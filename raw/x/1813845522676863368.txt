@@ -1,0 +1,19 @@
+OMG!!!!! 6 Days Ago I had never written a line of code in my life. 
+
+But I just deployed my first note taking web app with a back end that stores the data, using Claude, Replit, and Google Firebase.
+
+Just brute forced asked Claude questions alternating between 2 accounts to get around the limits, AND STILL running out of credits on both accounts.
+
+Just about 4.5 hours later I had a custom Notes app in the style that I wanted. 
+
+I obviously don't have any programming "hard skills", but my understanding of what is possible with code has increased 1,000,000%... 
+
+I would share link but i don't think my code protects my API tokens or whatever... I got confused on that part.
+
+---
+
+Next step is adding perplexity and claude API into the app. :)
+
+Posting full video making this on youtube at some point, idk when, its 3AM, off to bed...
+
+much love.

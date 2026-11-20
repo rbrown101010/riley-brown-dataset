@@ -1,0 +1,11 @@
+Dear Startup Founders of San Francisco.
+
+Request for a startup: 
+
+a rendering platform ONLY for video editing. Figure out the fastest way to render videos and let claude and codex plug into it, and it renders any type of video and returns a download link with the video. AS FAST AS POSSIBLE. 
+
+I have a theory that in one year most video editing software will be bloat. And that the best editor will be claude code and codex editing the files headless. These videos will need to be rendered somehow. The better the models get the more aspirational people will get with their videos. 
+
+Creating an 20 minute video that renders in 8k on blender at the highest quality should be no problem.
+
+There are alot of cloud providers that technically offer this but they are sloppy for this use case, and drain tokens unnecessarily.

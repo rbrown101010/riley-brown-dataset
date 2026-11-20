@@ -1,0 +1,7 @@
+You can just tell Claude Code to learn skills and it will.
+
+I asked Claude to create an app that uses @tldraw and it one shotted it with sqlite db, and then I asked Claude Code to create a skill so that it could read and write on the canvas. 
+
+10 minutes later it could do it. 
+
+Weirrrrdddd times.

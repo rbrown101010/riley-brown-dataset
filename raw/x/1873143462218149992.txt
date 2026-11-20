@@ -1,0 +1,1 @@
+after deepseek v3, I now understand why OpenAI is hiding the thinking on the o1 models

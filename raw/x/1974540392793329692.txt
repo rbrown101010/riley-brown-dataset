@@ -1,0 +1,16 @@
+Claude 4.5 Sonnet is the best in the world at building Mobile Apps.
+
+In 14 minutes:
+- I Built a Mobile app From my Phone 
+using @claudeai 4.5 Sonnet on @v_computer 
+- I designed and modified my app
+- I sent the app to the @Apple app store
+
+TIMESTAMPS: 
+00:00 Introduction
+00:21 Defining the Problem and App Idea
+01:39 Building the Initial App
+03:24 Fixing App Issues
+04:50 Improving the Design
+10:21 Final App Features
+12:29 App Store Submission

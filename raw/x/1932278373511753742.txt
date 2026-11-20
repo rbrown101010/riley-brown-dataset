@@ -1,0 +1,22 @@
+CLAUDE IS SO MUCH BETTER WHEN YOU USE MCP
+
+Both Claude Sonnet and Opus are Insanely smart Agents.
+
+But they can't read your mind.
+
+You need to Give it Context...
+(MCP = model CONTEXT protocol)
+
+Here is an example...
+
+Then a tutorial on how to give Claude access to MCP tools without writing a single line of code or copying any "JSON".
+
+TIME STAMPS: 
+00:00 - Introduction
+01:00 - First Example with @notionhq 
+ - Searching, Research, Scripting
+02:53 - Generating 5 YouTube Thumbnails @heyglif 
+ - Adding Auto Comments to Notion
+04:52 - Claude Project System Prompt
+ - (Will make follow up video)
+05:13 - How to set up these MCP's

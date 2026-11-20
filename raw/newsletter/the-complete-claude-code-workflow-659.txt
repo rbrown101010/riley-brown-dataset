@@ -1,0 +1,31 @@
+Mastering Claude Code: Building Apps, Websites, and Automations Without Coding Experience
+
+In this video we discuss:
+
+1. How to install and set up Claude Code on your computer.
+
+2. Using Claude Code to create basic files, do research, and generate content.
+
+3. Building a landing page and deploying it to the internet using GitHub and Vercel.
+
+4. Adding advanced features like user authentication, a database, and AI chat to your web app.
+
+5. Integrating your projects with tools like Firebase and OpenAI for seamless development.
+
+Claude helps you build. VibeCode helps you launch. Try it → https://vibecode.go.link/cRtDc
+Intro
+Installing Claude Code
+This is Claude Code
+Creating Folders and Text Files
+Using Claude Code as a Content Research Agent
+We're creating a very predicatble agent
+Review: It's a general agent, that can control your cpu
+Building Apps with Claude Code
+Bypassing Permissions (Dangerously)
+Creating a landing page
+Setting up and "Saving" to GitHub
+Deploying to Vercel
+Building a web app with auth and db (Firebase)
+Setting up Firebase
+Our Web App With Auth Works!
+You can add your own domain

@@ -1,0 +1,42 @@
+Claude Code and Codex are the best AI Coding Agents in the world. Let's build with them.
+
+Get Access to Claude Code, Codex and the Mobile App Builder: https://www.sandbox.dev
+
+Here is a complete guide. L
+
+et's build 13 Apps using the best coding tools in 96 minutes.
+
+TIMESTAMPS
+Intro
+What are these tools?
+Learning Claude Code
+First Prompt in Claude Code
+Editing Prompt with Claude Code (Making a linktree)
+Prompting Codex w GPT-5 and Gemini CLI
+Running on Skip Permissions Mode (Yolo Mode) by default
+Commands in Claude Code /cost /model /clear / compact
+Resume Previous Chats with /Resume in Claude Code
+Sharing web app links immediately with sharable links
+Building Static Pages (Vibe Marketing)
+Vibe Marketing 1: landing page in Claude Code and Codex
+Evaluating the Landing Pages with Claude Code, Codex, and Gemini
+Making edits to our landing pages + Context Management + Wispr Flow
+Vibe Marketing 2: Creating a Lead Magnet with Claude Code, Codex w GPT-5
+Using Tally to embed into our Lead Magnets
+‌ 34:03 Vibe Marketing 3: Creating a research Presentation with Codex
+Polishing and editing our presentation
+Vibe Marketing 4: Building Prototype, Analytics Dashboard, and Game at the same time with Claude Code and Codex
+Using Canvas app to mockup for prototype (Excalidraw)
+‌ 47:38 Dealing with an error in Codex w/ GPT-5 high
+Vibe Marketing Recap... What we created
+PART 3: Building Notes App with Database and Authentication using Instant DB
+Using InstantDB to build apps
+API's (AI Power ups for your vibe coded apps)
+Building Thumbnail Editor App with Nano Banana API
+Bringing a Prototype to life with Nano-Banana
+What are API Keys? Why do you need them?
+Getting Google API key for Nano Banana
+Building a Mobile app
+Building a mobile app using AI API's
+Deploying Mobile apps to the App Store
+Deploying your apps from Sandbox

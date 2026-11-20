@@ -1,0 +1,11 @@
+guys..... i just created a website 100% copy and pasting from claude:
+
+1. front end
+2. back end
+
+- meaning... anyone can sign in / sign up with a google account.
+- I can assign admin access. 
+- admins can add "lessons" that get updated 
+- people can add comments
+
+and i filmed the whole thing ~ 4hrs.

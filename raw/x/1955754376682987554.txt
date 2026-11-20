@@ -1,0 +1,27 @@
+How to build an iOS app that uses the best AI image generator... IN UNDER 37 minutes.
+
+And get it on the Apple App Store...
+
+With Zero Coding...
+
+STACK:
+1. New web app for @v_computer 
+2. @ideogram_ai New Character Generation Feature
+3. FAL API
+4. Claude 4 Sonnet and GPT-5 for coding
+
+TIMESTAMPS:
+00:00 Intro
+00:51 Setting Up the AI Prompt
+01:12 Understanding and Using APIs
+03:47 First Prompt on the @v_computer website
+08:04 Ideogram Works Now!
+08:24 Changes we want to make to the app
+12:25 Aspect Ratio of Thumbnails, FIXED!
+15:23 Generating and Reviewing Thumbnails
+16:36 Implementing New Features
+19:52 Final Adjustments before App Store Submission
+21:18 The Apps Final Form
+22:42 Shipping our app to the app store
+
+Video with @zulali

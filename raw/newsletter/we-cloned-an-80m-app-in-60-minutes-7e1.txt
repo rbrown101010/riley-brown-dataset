@@ -1,0 +1,25 @@
+Clone an $80m/year app and put it on the Apple App Store.
+
+DOWNLOAD VIBECODE: https://vibecode.go.link/J7zUg
+
+Where you can find more of us:
+
+Follow me on X: https://x.com/rileybrown_ai
+
+Follow Muhammad on X: https://x.com/zzulali
+
+Here is the entire process start to finish in 47 minutes.
+
+In this video, Muhammad and I attempt to fully recreate a viral iPhone app that made $7M last month — all using AI. We built it entirely inside the VibeCode app, across iPhone and iPad, without writing a single line of code. From swipe-to-delete logic to App Store submission, we go from idea to launch in one session.
+
+TIMESTAMPS
+Intro
+App Idea (We found on @SensorTower+ TikTok)
+Initial AI Prompt to build the app 02:18 Building on iPad and iPhone w/ @vibecodeapp
+Testing native photo access and deletion
+Adding Tinder-style swipe interface
+Fixing animation and UI bugs
+Making the Folders Feature Better
+Creating app icon and landing page with AI @ChatGPTapp
+Adding splash screen while photos are loading
+Putting the App on App Store / SSH - @cursor_ai41:40 Preparing for App Store submission

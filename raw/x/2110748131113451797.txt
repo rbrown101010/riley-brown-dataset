@@ -1,0 +1,9 @@
+This is obviously the future of video games. 
+
+Streamers and their community building the game together, then playing it. 
+
+When Astra came out I streamed a call of duty clone, with 10 loadouts, vehicles, kill streaks etc, and in between matches people we're shouting in the voice chat (that we vibe coded into the game), what changes they wanted. 
+
+But i see a world where they can send in their prompts and the team of the streamer can moderate those prompts and send them through, and the agents will make 20 changes at once, and then 30 min later everyone could be playing the next version of the game. 
+
+And every month that goes by, as models improve, these games will look more and more professional. Some company will figure out how to make these games easily forkable, hostable, monetizable, social, fast, and fun.

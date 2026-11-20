@@ -1,0 +1,8 @@
+Every day i'm blown away at what i can do in an hour with frontier models like Opus 5.5.
+
+I didn't know what to do with an old iPhone, so I built Bluey, w/ Opus 5.5. It's powered by GPT Realtime 2 
+(i think... whatever Opus decided to use). 
+
+Bluey is an iOS app + mac app that is made to be a computer companion. It can point, comment, and even control my entire computer.
+
+github repo below

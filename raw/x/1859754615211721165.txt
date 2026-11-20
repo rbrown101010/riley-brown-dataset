@@ -1,0 +1,14 @@
+Help me find the GOAT AI Coding stack. 
+
+About to do some deep research on 
+
+- @codeiumdev 
+- @v0 
+- Bolt
+- Replit
+
+I want to find the MOST frictionless path to create web apps with a database, AI features, and authentication. 
+
+I’m going to keep all of my research and notes in the thread below. Post links of examples and stuff below as well. 
+
+What tools did I miss?

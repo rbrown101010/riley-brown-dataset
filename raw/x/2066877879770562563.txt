@@ -1,0 +1,8 @@
+Notice how Cursor isn’t saying “for developers”. Just “Useful AI”.
+
+Cursor will likely become a direct competitor to Codex and Claude Desktop. 
+
+- Their in app browser is great. 
+- Their composer model is good and fast for most tasks
+
+They just need to render documents like cowork and codex, and I’d consider using it for most of my work (as a non-dev)

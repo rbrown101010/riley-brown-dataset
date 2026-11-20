@@ -1,0 +1,7 @@
+Apple just announced that Siri will be able to take actions inside third-party apps.
+
+Talk to Siri, and it can take actions those apps make available through App Intents.
+
+And since vibe coding mobile apps is solved (it is), you’ll be able to create your own apps and control them through Siri.
+
+“Hey Codex, build me an app that tracks my workouts, finances, and meals. Make every action controllable through Siri via App Intents.”

@@ -1,0 +1,9 @@
+Damn OpenAI is really going after Zapier and n8n...
+
+They're releasing an "Agent Builder" tomorrow (apparently). 
+
+And you'll be able to add MCP tools, Guardrails and more. 
+
+For the past three years people have been making ChatGPT wrappers. 
+
+I think the next wave will be Agent Wrappers.

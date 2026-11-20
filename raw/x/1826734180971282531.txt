@@ -1,0 +1,41 @@
+Instructions for syncing Replit with Cursor
+
+This looks like a lot but it takes 3 minutes once you get it down.
+
+HUGE shout out to @anshnanda for showing me how to do this.
+
+Open Repl or Create with our Template
+
+Go to Cursor
+- Click Terminal
+- Click CMD K
+- Type "Generate an SSH Key For Replit, name it Replit, and copy the public key to the clipboard"
+- if prompted to overwrite put "y", then enter
+- it'll prompt about passphrase, just press enter
+- it'll prompt about passphrase again, just press enter
+- this automatically copies the ssh key to clipboard
+
+Go to Replit
+- plus sign (new tab) and type SSH
+- go to SSH panel
+- Click Keys
+- Add SSH Key
+- Give it Label (doesn't matter what you call it)
+- Paste in that code from cursor that was automatically added to your clipboard in previous process. Should be a fat chunk of text. 
+(If its smaller, you didn't specify the public key)
+- Go to connect tab in same panel
+- Copy the Shell command
+
+Go Back to Cursor
+- Open with SSH
+- Paste that shell command on top
+- Click Add new SSH Host
+- Paste the command again
+- Enter
+- Click the first option that pops up
+- Bottom Right of screen click connect
+- Click Continue
+- Open Folder
+- Click name of Replit Project (Repl)
+
+If you are using the template just set up firebase as I do quickly and you are set up with database authentication and storage.

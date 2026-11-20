@@ -1,0 +1,14 @@
+It's official I am feeling the AGI...
+
+While testing GPT-6 Astra I had 7 key realizations:
+
+(Realization 1 & 2 - I gave Astra a 38 page PDF of an estate, and it it turned it into a blender file, then made it into a playable call of duty map in one prompt) 
+
+00:00 Intro
+1) 00:42 AI is better at 3D graphics than humans
+2) 05:38 Astra creates high quality video games
+3) 07:13 Vibe coding is solved
+4) 12:43 Computer use is insane
+5) 15:28 Self-Testing gets way better
+6) 18:18 GPT 6 is much better w/ Codex
+7) 20:18 Need a 24/7 Mac Mini Running Codex

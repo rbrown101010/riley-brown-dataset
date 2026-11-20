@@ -1,0 +1,6 @@
+OpenAI dropped 2 massive updates.
+
+Agent Builder (in the OpenAI Playground)
+Apps SDK (inside ChatGPT)
+
+Excited for both.

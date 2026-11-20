@@ -1,0 +1,17 @@
+I gave my @bot his own email and credit card...
+(you can to, it takes 5 minutes)
+
+The most underappreciated feature of grokbot imo is the "webhook trigger" for routines. 
+
+When my bot receives an email, it automatically runs. I can forward emails to him. I can put him on email chains. as soon as he gets an email, he runs a routine. 
+
+Oh and he also has a credit card and can buy things, using @link ...
+
+00:00 Intro
+01:20 Part 1: Giving the Agent an Email @agentmail 
+02:55 Creating the GrokBot (Meet Jimmy)
+04:18 AgentMail Plugin Setup
+07:05 Setting Up Email Webhooks
+12:15 Part 2: Giving the Agent a Credit Card (Stripe Link)
+14:42 Testing: Buying from Amazon via Email
+17:27 Recap: How It All Works

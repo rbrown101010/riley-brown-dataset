@@ -1,0 +1,24 @@
+How to convert ANY web app into a Mobile App...
+
+That can be shipped to the App Store from your phone.
+
+(Zero Coding Required)
+
+This works with web apps made on Replit, Bolt, v0, Replit or Cursor.
+
+Tech Stack: 
+1. @claudeai Desktop (works with ChatGPT)
+2. @v_computer - Builds the Mobile app, Ships to App
+ Store directly from the phone 
+ (Uses Claude Code)
+
+(Prompt for conversion below)
+
+TIMESTAMPS
+ Intro
+ The Web App We Will Convert
+ The Mobile App that Builds Mobile Apps
+ Mobile App Version 1 
+ You can Publish this to the App Store
+ Adding Additional Features (AI APIs) to your app 
+ Editing the Mobile App with the Select Feature

@@ -1,0 +1,13 @@
+The fastest way to create a mobile app with cursor: 
+
+1. Prototype on phone
+2. Export to Cursor
+3. Make Changes on Cursor while testing on your phone
+
+Timestamps:
+00:00 Intro
+00:30 Prototype on @v_computer
+01:06 App Version 1
+01:29 Making First Edit
+03:06 Exporting to @cursor_ai 
+05:50 Making Logo for app in ChatGPT and uploading to Cursor

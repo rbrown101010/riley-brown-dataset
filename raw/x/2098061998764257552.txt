@@ -1,0 +1,10 @@
+Thinking about how an automated workflow could look with Astra
+
+1. I go out in the world - film a video - Upload to drive
+2. Codex scheduled task - Check Google Drive every 30 minutes for new video, if new folder added, begin editing process
+3. Import talking head video into descript, run [[descript starting prompt]] which cuts the segments we don't need, removes bad takes, and exports video. 
+4. Import into davinci resolve run [[davinci resolve starting prompt]]. This searches for b-roll across the internet relevant for overlays (based on Descript transcritp), formats the video, adds zooms at key times, adjusts color, makes sure broll overlays look good
+
+Will test this when I get my dedicated Mac Setup ready. 
+Will also see costs to run a workflow like this.
+Video next wk.

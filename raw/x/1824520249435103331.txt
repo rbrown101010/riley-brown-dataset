@@ -1,0 +1,23 @@
+You (with zero coding experience) can now create websites from scratch using AI in less than 20 minutes with this template:
+
+In this video @anshnanda and I walk you through the process of: 
+
+1. setting up the Template on Claude Projects and how to connect your Replit (Code Base) to your Google Firebase (Database, Storage, Auth).
+
+2. Using the template to turn one of your ideas into a working web app with: 
+
+-----> Clean Stylized Front End
+-----> Database
+-----> Storage, 
+-----> User Sign in + Profile Page
+-----> File + Post Uploads
+
+In less than 20 min.
+
+The best part is... Next week we will show you how to create API endpoints, and you'll be able to create full web apps with multiple AI features. 
+
+Sections of this video
+----------
+00:00 Introduction 
+02:28 Template Set Up 
+17:47 Building App with the Template

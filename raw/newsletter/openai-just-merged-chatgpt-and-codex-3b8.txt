@@ -1,0 +1,21 @@
+OpenAI just merged ChatGPT and Codex, released GPT-5.6, and gave nearly a billion people access to an AI that can actually do work.
+
+In this episode, I sit down with Ras Mic to break down what this means, why every company should be building agent-native software, and the Codex workflows we’re using right now. We cover computer use, agent loops, automations, multiple threads, the tools that make agents more powerful, and how Codex compares to Claude Code and Fable 5. T
+
+his is the beginning of an entirely new way of using computers—and most people still have no idea what’s possible.
+
+Introduction
+OpenAI Merging ChatGPT and Codex
+Sol, Terra, Luna - The new Models
+The Replit/Lovable Benchmark (Fable and 5.6)
+Pricing of 5.6 (it's great)
+Computer Use
+Record and Replay for knowledge work
+Loops
+Loops for Marketing
+Plugins and Social Media Scraping
+Tools
+Building Block Economy (Legos for Agents)
+Use Multiple Threads
+New Sites Feature 40:00 Updated Browsers
+Agent First Operating System

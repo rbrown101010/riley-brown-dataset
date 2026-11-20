@@ -1,0 +1,9 @@
+My biggest wow moment using GPT 6 Astra had nothing to do with the visual posts you've been seeing... Don't get me wrong, those are awesome and fun... 
+
+But the biggest wow moment was when I gave Astra context over everything about my business and then gave it the prompt below. Email, Slack, Business Texts, Notion, and every meeting note... everything I've been doing (Which involves like 20 different projects with many teams over the past few months)... 
+
+Here's the prompt I used which was not really well thought out just a wispr flow ramble... All I can say is the response to this prompt was the most useful thing an AI has ever given me...
+
+""I'm about to plan the next month, quarter, and year" Make one document that aligns me on all of those timeframes. Look for my flaws, look for my strengths, and highlight those. Look at ALL of my activities, which activities do you think i'm wasting the most time. Which activities should I do more of? Of the people I work with who seem the most dependable? Where am I the least dependable? If I could only upskill in one area over the next year what would it be and why? Where can I organize my company better, and how would I do that? 
+
+Use text when necessary, use charts/visuals when necessary, but never ever fill space for the sake of it. Every graphic and word should matter. I want to know about finances, relationships, business model, everything. ""

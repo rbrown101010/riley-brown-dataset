@@ -1,0 +1,23 @@
+This girl just raised $2.5 million and it's because she built a manifestation app. So, I had no idea how big of an industry manifestation or astrology, you know, like Capricorn, asparagus, and Sagittarius. This is basically the sports betting for women. So, in order to cash in on this trend, we are going to vibe code a manifestation app and we're going to use the most powerful AI models in the world. So, before we get AI to fully prompt our app, what I want to talk about is the Barnum effect. So the Barnum effect is a psychological phenomenon where people believe that vague general statements about their personality such as those found in horoscopes, fortune cookies, or some personality texts apply specifically to them, even though the statements apply to everyone, right?
+
+When you get a fortune cookie, you're like, "Oh my god, that's me." But really, it's just applies to anyone. So what we're going to do is we're going to say, "I want you to build an app that exploits the Barnum effect. This is a horoscope or manifestation app that makes people feel seen. I want you to search the internet deeply and find an app that's already made hundreds of thousands of dollars like this. But I want you to exploit the Barnum effect even more. Make anyone who uses this app feel as though this app was made to inspire them through this world.
+
+And I want you to use the OpenAI API to make it feels as though they are being talked to by the gods. It will feel like that to everyone. So we're going to change this to Claude Opus 4.1, the best AI coding model in the world. And now we're going to run it. And now we're going to wait for the app to finish building. Okay, so the app is done.
+
+I can press on the cosmic dice. Ooh, what the hell was that? Okay, Rick, in the stillness of your heart, you've been feeling a mix of anticipation and trepidation. And you know what? I want to design my own dice. Okay, so what I'm going to do is I'm going to use the chat GBT image model, and I like to use Korea to generate images.
+
+And I'm going to enter this prompt. So I'm going to create a 3D image of a divine dice. Generate. Ooh, I like this one. Let's go ahead and download this image right here. For the divine dice, please make sure to use this image instead of the image that you have when the AI generates my horoscope thingy.
+
+I want the bold text to render properly. This is done. I'm going to hit refresh here. Where is it? Oh, there we go. We have our dice in the app.
+
+It's much more divine. Let's press it. Ooh, it has haptics when I press it. Ooh, Rick. I don't know why Rick's off to the right. You've been feeling the weight of the world upon your shoulders.
+
+A lingering sense. Oh, wow. Oh, wow. Oh my god. It added meditation. And what's cool now is I can have the project open.
+
+I'm going to click app store. I'm going to generate. I'm just going to put majestic purple dice black background. We're generating an Apple App Store icon. And we're going to submit this directly to the App Store. Boom.
+
+There we go. Save the icon. We'll call this Cosmic Mirror. You know what? I like that. Let's hit continue to build setup. start build process.
+
+Ooh, there we go. The app is now building. I'm going to hit allow. All right. Now it's submitting this build to the App Store. So now I'll be able to send it to Apple for review and I could have this app on the app store.
+
+I'm going to be doing a much deeper dive and next time we're going to add payments.

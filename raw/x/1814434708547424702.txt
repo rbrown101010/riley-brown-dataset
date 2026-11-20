@@ -1,0 +1,7 @@
+Yoooooo! Useful Prompt Alert:
+
+If you're like me and have really long chats with Claude or ChatGPT you can use this prompt to generate a visual timeline of the chat.
+
+I will often use this when I have "1 chat remaining"
+
+I will paste the prompt below the video.

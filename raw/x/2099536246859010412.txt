@@ -1,0 +1,40 @@
+GPT-6 Astra is by far the best inside Codex. 
+& this is THE Complete Beginners Guide to Codex.
+
+The 28 things you need to know about Codex and GPT-6 to start using it for knowledge work and coding work. 
+
+My goal with this video: give you one guide you can send to anyone on your team so they can get comfortable with Codex, understand what’s possible, and start finding ways to use AI in your business.
+
+00:00 Intro
+01:15 The Codex Platform
+02:02 Downloading Codex (ChatGPT Desktop)
+03:25 1. Codex Is the App, GPT-6 Is the Model
+06:10 2. Build Any App
+10:32 3. Host Sites with GPT Sites
+18:12 4A. Building Desktop App
+21:33 4B. Building an iOS app
+24:09 5. Built-In Web Browser
+32:27 6. Create Any Document
+35:00 7. Annotation Mode
+38:41 8. Production-Ready Apps
+44:29 9. Chats & Projects
+48:54 10. Multitasking
+50:09 10B Side Chat
+51:13 11. Sections
+54:27 12. Connect Every App (Plugins)
+01:03:17 13. Ask Codex What to Work On
+01:05:39 14. Blender & 3D Assets
+01:08:25 15. Video Games
+01:09:24 16. Interactive Learning Websites
+01:13:12 17. Scheduled Tasks
+01:16:19 18. Email & iMessage
+01:18:56 19. Skills
+01:22:54 20. Record and Replay
+01:26:45 21. External APIs in Skills
+01:30:00 22. Video Understanding Skill
+01:35:51 23. Inline Charts
+01:38:03 24. Control Codex from Your Phone
+01:42:49 25. Generate & Edit Images
+01:45:17 26. Sub-Agents
+01:48:09 27. Computer Use
+01:49:35 28. Whatever You Want

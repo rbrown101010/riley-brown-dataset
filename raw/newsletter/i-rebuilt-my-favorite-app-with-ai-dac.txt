@@ -1,0 +1,31 @@
+Many popular iOS apps are increasing their prices... Good thing we have AI.
+
+And you can recreate popular apps without writing a single line of code.
+
+And ship them to the App Store:
+
+IN THIS VIDEO
+
+Ansh Nanda (@anshnanda_) and I:
+
+1. Plans and Outlines his app idea
+
+2. Builds a mobile app on @vibecodeapp
+
+Try out VibeCode: https://vibecode.go.link/eUk3V
+
+3. Connects to Cursor
+
+4. Creates personalized AI-generated images
+
+5. Submits the app to the App Store
+
+TIME STAMPS:
+Introduction
+The App We're Building
+Creating the App Mockup on Excalidraw
+First AI Prompt on @vibecodeapp
+Enhancing App Functionality
+Connecting the App to @cursor_ai
+Styling and Final Touches
+Publishing the App to the App Store (in less than a week you'll be able to push to the app store directly from VibeCode app)

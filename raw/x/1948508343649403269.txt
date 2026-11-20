@@ -1,0 +1,25 @@
+I'm no longer using claude, chatgpt, or perplexity. 
+
+I'm only using claude code.
+
+For literally everything. 
+
+And I keep everything organized locally.
+
+The Claude Code + @obsdmd combo is actually bonkers for content creation / research. (Shout out @mckaywrigley, his latest video on youtube is great)
+
+If this is something you want to do, I highly recommend creating a "HQ Examples" file on your computer. 
+
+This should be a folder of 30-50 high quality examples of your work, or anyones work that you want to create like, and giving Claude Access. 
+
+Giving good examples is worth as much if not more than a really good prompt. 
+
+---
+
+This also gives FLEXIBILITY. 
+
+If you store everything locally you can port your data into other tools much easier than using chatgpt, claude, and perplexity. 
+
+Don't create a claude project, chatgpt project, or perplexity spaces, when you can just create a local folder with a "ReadME" file with a folder of good examples.
+
+You can also create commands. Which i'll talk more about in my next video.

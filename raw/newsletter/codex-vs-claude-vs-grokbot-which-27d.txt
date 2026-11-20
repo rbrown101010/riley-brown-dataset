@@ -1,0 +1,28 @@
+The Biggest News this week in AI Agents: Codex iMessage Control, GrokBot's Rise, Claude Cowork on Mobile, Slack Code And more
+
+In this week's Agent Native update, I'm genuinely excited about how fast the agent ecosystem is moving, from Codex's new iMessage integration that can analyze thousands of texts to GrokBot's rise as the easiest-to-use super app, even if Grok's model still lags behind GPT and Claude. Comparing the big three platforms, I see GrokBot winning on ease of use, ChatGPT/Codex on its browser and iOS experience, and Claude on knowledge work and documents. I'm also encouraged by Anthropic merging Claude Design into Claude Code and bringing Cowork to mobile, plus Slack Code turning agent-driven building into a collaborative, multiplayer experience. Overall, I think we're transitioning from personal agents to teams of agents, and eventually many humans working with many agents together, which is really exciting.
+
+-
+Intro
+
+-
+Codex iMessages Update
+
+-
+GrokBot's Rising Popularity
+
+-
+Super App Comparison
+
+-
+Anthropic Updates
+
+-
+Slack Code
+
+-
+Outro
+
+More about me rileybrown.xyz Sponsorships: [email]
+
+Learn about how to make your business more Agent Native at agentnative.inc.
